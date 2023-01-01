@@ -118,4 +118,24 @@ Now this isn't something you should really worry about until you get to top-tier
 For reference, it is possible to close into a time of 1:21:00 comfortably without worrying about localisation. It is just common that after improving your time and investing yourself into the game for long enough, that having a JP or NTSC-J copy of the game is likely, and not a requirement.
 
 </details>
+<details>
+	<summary><h3>Chapter 1</h3></summary>
+
+<h3>1-1*</h3>
+
+Be mindful of the small little delays whenever Mary talks. This is notably right at the start when she asks you to suture, again when she asks you to use the forceps.
+
+You should suture the left cut, and then the right as it is quicker.
+
+	IMAGE HERE
+
+
+After you've pulled out the shards, tap the gel on each of the small cuts.	
+For the incision, you will need to ensure all of it is covered with gel before you can select the scalpel.
+Because the three cuts from the shards in the arm are quite close you can slather the gel over these.
+Don't forget to gel before the bandage.
+	
+</details>
 </div>
+
+
