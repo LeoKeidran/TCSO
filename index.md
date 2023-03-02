@@ -1,3 +1,5 @@
+<div align="justify">
+ 
 # Trauma Center: Second Opinion (TCSO) Speedrunning
 ![](logo.png)
 ## Introduction
