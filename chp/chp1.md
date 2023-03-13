@@ -19,7 +19,7 @@ Don't forget to gel before the bandage.
 When you go to inject the stabiliser, make sure to take a full draw. Mary will know if you skimp out! <br>
 Just like 1-1, there is a small delay for each step as Mary talks. <br>
 The Tumour is always located in the same spot (as below). Be sure to ultrasound exactly where it is, so you don't get additional dialogue from Mary.
-![](1-1_tumour.png)
+![](1-2_tumour.png)
 Cutting the tumour can be done in any straight line across the location, it doesn't necessarily have to be vertically. In this instance, doing a small vertical slash is the fastest way to expose it. <br>
 After the membrane, just tap the gel directly in the centre of the membrane. You should do this for all membranes going forward. <br>
 Don't forget you can just bandage without putting any gel down.
