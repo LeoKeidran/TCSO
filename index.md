@@ -24,9 +24,8 @@ Each chapter has its own page, as well as each GUILT strain to help you keep eac
 * [Savato](guilt/savato.md)
 
 ## Overall Guidance
-TL,DR: Git gud.
 
-Given TCSO relies on precise motor skills to control the Wiimote and the Nunchuck, much of getting better at the game will revolve around lots of practice and getting more comfortable with the controls. Second Opinion has the lowest cursor sensitivity given it was made with a 4:3 aspect ration. What this can mean is if you are coming from other Trauma Center titles the cursor may feel a bit slow. With practice this won't be an issue.
+Given TCSO relies on precise motor skills to control the Wiimote and the Nunchuck, much of getting better at the game will revolve around lots of practice and getting more comfortable with the controls. Second Opinion has the lowest cursor sensitivity given it was made with a 4:3 aspect ratio. What this can mean is if you are coming from other Trauma Center titles the cursor may feel a bit slow. With practice this won't be an issue.
 Just like learning an instrument, starting off slow and ensuring you get the motions down is just as important as your knowledge. If you start slow, you can build up your speed the more you practice.
 
 ### Sensor Bar
