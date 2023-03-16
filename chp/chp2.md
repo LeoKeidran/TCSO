@@ -46,7 +46,7 @@ If you are especially fast, you can extract the aneurysms before the others burs
 This operation is incredibly short, but there are still small optimisations you can employ. <br>
 First of all, drain the blood of one of the cuts. Angie will briefly cut you off once you do. Then close the cut and suture it. <br>
 Next drain the other cut, close it and suture. Angie will again make you wait a moment before you can suture the smaller cuts so keep this in mind. <br>
-![](./img/2-6_cuts.png)
+![](./img/2-6_cuts.png) <br>
 It doesn't matter which cut you start with first, but ensure you finish one cut before moving onto the other as collectively treating them is slower due to the cursor distance and tool switching efficiency. <br>
 
 ## 2-9
@@ -55,7 +55,7 @@ Like in 2-6, drain each cut, then close them and suture, as this is faster than 
 ***Please follow the Kyriaki Advice found under GUILT - Kyriaki for this operation. The below is operation specific advice.*** <br>
 After you suture the newly created cut, immediately ultrasound towards the centre of the operation area as this is often where the first immature will be. <br>
 Note that this isn't always necessarily the case, and you should follow the general Kyriaki advice, but more often than not, the immature will be in this area. <br>
-![](./img/2-9_immature.png)
+![](./img/2-9_immature.png) <br>
 Once you kill the first immature and suture, you have a big enough window boost the vitals with two full injections. This is close, and it is better to go for one and a half if the first cut appears. <br>
 There is a cut that will spawn but trying to suture it before Greg cuts you off is tight. Aim to squeeze this suture in after the vital boost. <br>
 The next cut always spawns right next to the tool wheel. Don't forget there are two immatures here. <br>
