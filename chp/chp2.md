@@ -14,7 +14,7 @@ If you are especially fast, you might have to skip the second thrombi initially 
 If done at the right pace, you can ultrasound, cut and drain the last two thrombi together. <br>
 ![](./img/2-1_group.png) <br>
 After dealing with the initial five thrombi, wait for each thrombi to overlap in the outer vein, ultrasounding them as they travel so that you can pinch them in this location (shown below). After the Auto-HT activates, cut the group, drain them and tap the gel. <br>
-![](.img/2-1_ht.png) <br>
+![](./img/2-1_ht.png) <br>
 There are an additional two thrombi to worry about, the very top left and the second to last branch at the bottom right. <br>
 Deal with these as you did in the first wave. <br>
 
