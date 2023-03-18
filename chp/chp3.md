@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Chapter 2
+# Chapter 3
 
 [Back to Main Page](../index.md)
 
