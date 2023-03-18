@@ -38,7 +38,7 @@ Be ready to drop the core onto the tray after cutting it out. <br>
 
 The puzzle has a set solution, found below. <br>
 I highly recommend completing the puzzle the same way every time for consistency, so that you can eventually do it without reference. <br>
-![](4-7_puzzle.png) <br>
+![](./img/4-7_puzzle.png) <br>
 
 ## 4-8*
 You'll need to inject the nanomachines three times before the core is exposed. Each injection must be a full dose. <br>
