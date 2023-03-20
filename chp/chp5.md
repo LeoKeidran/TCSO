@@ -57,7 +57,7 @@ The next two are located right next to one another: <br>
 ![](./img/5-8_sixth.png) <br>
 The final two cuts happen very quickly. For best optimisation, on the final cut you should laser most of the immatures, but not all. Suture the cut, then finish lasering. This skips a small amount of text. But it's a very minor time save. <br>
 ![](./img/5-8_seventh.png) <br>
-![](./img/5-8_eigth.png) <br>
+![](./img/5-8_eighth.png) <br>
 
 ## 5-9*
 
