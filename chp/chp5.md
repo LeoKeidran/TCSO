@@ -48,7 +48,7 @@ For the first wave after suturing all the initial cuts, be ready to laser here: 
 ![](./img/5-8_first.png) <br>
 From here, be ready to laser for the next cut over here: <br>
 ![](./img/5-8_second.png) <br>
-Then be ready to laser for the third cut here:
+Then be ready to laser for the third cut here: <br>
 ![](./img/5-8_third.png) <br>
 After this cut, wait approximately three second and pop the healing touch, just before the next cut appears: <br>
 ![](./img/5-8_fourth.png) <br>
