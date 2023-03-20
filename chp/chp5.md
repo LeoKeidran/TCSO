@@ -64,7 +64,7 @@ The final two cuts happen very quickly. For best optimisation, on the final cut 
 ***Please follow the Savato Advice found under GUILT - Savato for this operation. The below is operation specific advice.***  <br>
 This first encounter with Savato is the tamer and less aggressive variant. <br>
 It is possible to get faster web-skip in this op and skip the extra strand at the end of the final web phase. To do this, you will need to execute the scalpel glitch on the upper left strand cross over. Do this 10 times, then cut one of the other overlapping points. Repeat the glitch for another 10, before cutting the other strand overlap at the bottom right. You should be left with the final two strands on low HP, meaning if you continue to do the scalpel HT glitch, it will break. <br>
-This skip is very tight, and can can *only be done on this op and *not* on Savato 2. <br>
+This skip is very tight, and can can *only* be done on this op and *not* on Savato 2. <br>
 ![](./img/5-9_web.png) <br>
 For an easier time-save, after the final injection for Savato, before drawing the star, take a full injection of the serum, then draw the star. Savato shouldn't make any additional cuts in the time it takes you to complete this. <br>
 ![](./img/5-9_injection.png)
