@@ -7,14 +7,18 @@
 ## 3-2*
 
 With the big lacerations you should drain the blood of one cut, close and suture before you deal with the next. <br>
-***Please follow the Kyriaki Advice found under GUILT - Kyriaki for this operation. The below is operation specific advice.*** <br>
+
+***Please follow the Kyriaki Advice found under [GUILT - Kyriaki](../guilt/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+
 There are quite a few long waits between waves, so you can boost vitals if necessary. <br>
 After you finish dealing with Kyriaki, and you close up the patient, you will have to awkwardly wait for Sydeny to stop talking to Angie about Chirality to be able to finalise the operation. <br>
 
 ## 3-4
 
 In the pre-op there is a quite a bit of time so spend this time to stretch! <br>
-***Please follow the Deftera Advice found under GUILT - Deftera for this operation. The below is operation specific advice.*** <br>
+
+***Please follow the Deftera Advice found under [ - Deftera](../guilt/deftera.md) for this operation. The below is operation specific advice.*** <br>
+
 The tumour locations are always the same in small clusters, there is no set order to laser these in but this is the order I take: <br>
 ![](./img/3-4_tumours.png) <br>
 After lasering all these tumours, you have enough time to complete a full injection of the stabiliser before Angie talks. <br>
@@ -54,7 +58,9 @@ On the second to last wave, you can perform an early ultrasound right as the tur
 ## 3-10
 
 Be sure to switch back to Normal (if running Normal/Easy difficulty) after 3-8. <br>
-***Please follow the Triti Advice found under GUILT - Triti for this operation. The below is operation specific advice.*** <br>
+
+***Please follow the Triti Advice found under [GUILT - Triti](../guilt/triti.md) for this operation. The below is operation specific advice.*** <br>
+
 It's possible to just pull out all the thorns and then all the triangles of Triti without using the Healing Touch here. This requires you to be consistent and confident you can do this. <br>
 Angie and the Head of Caduceus Europe will cut you off when you first select the forceps, and then again when you have dropped off the first thorn. <br>
 If you don't want to use HT, you should opt to remove the below thorns first: <br>

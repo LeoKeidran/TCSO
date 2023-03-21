@@ -52,7 +52,9 @@ It doesn't matter which cut you start with first, but ensure you finish one cut 
 ## 2-9
 
 Like in 2-6, drain each cut, then close them and suture, as this is faster than collectively dealing with the large cuts. <br>
-***Please follow the Kyriaki Advice found under GUILT - Kyriaki for this operation. The below is operation specific advice.*** <br>
+
+***Please follow the Kyriaki Advice found under [GUILT - Kyriaki](../guilt/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+
 After you suture the newly created cut, immediately ultrasound towards the centre of the operation area as this is often where the first immature will be. <br>
 Note that this isn't always necessarily the case, and you should follow the general Kyriaki advice, but more often than not, the immature will be in this area. <br>
 ![](./img/2-9_immature.png) <br>

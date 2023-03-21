@@ -6,14 +6,16 @@
 
 ## 6-3
 
-***Please follow the Tetarti Advice found under GUILT - Tetarti for this operation. The below is operation specific advice.*** <br>
+***Please follow the Tetarti Advice found under [GUILT - Tetarti](../guilt/tetarti.md) for this operation. The below is operation specific advice.*** <br>
+
 In this op there is no diverticula, so draw the serum premptively. <br>
 When Derek grunts (or in JP he hums?), it means you're half way through the operation. <br>
 The gas let off the Tetarti can do quite a bit of damage, so boost the vitals between each wave. Be careful not to over-use the syringe however. <br>
 
 ## 6-4
 
-***Please follow the Kyriaki and Paraskevi Advice found under GUILT - Kyriaki, and GUILT - Paraskevi for this operation. The below is operation specific advice.*** <br>
+***Please follow the Kyriaki and Paraskevi Advice found under [GUILT - Kyriaki](../guilt/kyriaki.md), and [GUILT - Paraskevi](../guilt/paraskevi.md) for this operation. The below is operation specific advice.*** <br>
+
 After you suture all the initial cuts, the next set of cuts appear on the left side of the heart: <br>
 ![](./img/6-4_firstCuts.png) <br>
 Once you suture the first two cuts, extract the Paraskevi segments. <br>
@@ -27,14 +29,16 @@ With the Paraskevi extracted, deal with the Kyriaki as normal. <br>
 
 ## 6-6*
 
-***Please follow the Pempti Advice found under GUILT - Pempti for this operation. The below is operation specific advice.*** <br>
+***Please follow the Pempti Advice found under [GUILT - Pempti](../guilt/pempti.md) for this operation. The below is operation specific advice.*** <br>
+
 Although Angie claims that Pempti is mutated here, it is no different from usual, with the exception that the cycles are marginally faster. <br>
 It is possible to kill all the blue/polyp cores before they complete their animation, by lasering two cores at once. <br>
 
 ## 6-7*
 
 This operation is ***four*** GUILT patients back to back. <br>
-***Please follow the Triti, Kyriaki, Deftera, and Paraskevi Advice found under GUILT - Triti, Kyriaki, Deftera, and Paraskevi for this operation. The below is operation specific advice.*** <br>
+***Please follow the Triti, Kyriaki, Deftera, and Paraskevi Advice found under [GUILT - Triti](../guilt/triti.md), [Kyriaki](../guilt/kyriaki.md), [Deftera](../guilt/deftera.md), and [Paraskevi](../guilt/paraskevi.md) for this operation. The below is operation specific advice.*** <br>
+
 The Doctor you play as, and their respective Healing Touch alternates, starting with Derek. <br>
 As such, you will have access to Derek's Healing Touch for Triti or Deftera and; Naomi's Healing Touch for Kyriaki or Paraskevi. <br>
 Like in the rest of the game, you can only use each doctor's HT for a single patient. <br>
@@ -55,7 +59,8 @@ Given you are working on the heart, you cannot allow Paraskevi to burrow. Luckil
 
 ## 6-8*
 
-***Please follow the Savato Advice found under GUILT - Savato for this operation. The below is operation specific advice.*** <br>
+***Please follow the Savato Advice found under [GUILT - Savato](../guilt/savato.md) for this operation. The below is operation specific advice.*** <br>
+
 The web phase is RNG, and you might get 4 or 5 web in the secondary stage. <br>
 It isn't possible to get a web-skip on the final stage, so cut each overlap. As you cut the final overlap, an extra strand will spawn. While you wait for the scalpel, be sure to laser all the immatures. <br>
 As Savato 2 is generally more aggressive, be mindful of the vitals given they can drop. <br>
