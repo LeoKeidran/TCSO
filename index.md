@@ -1,6 +1,7 @@
  
-# Trauma Center: Second Opinion (TCSO) Speedrunning
 ![](logo.png)
+# Speedrunning Guide
+<br>
 ## Introduction
 This guide is aimed to provide insight and guidance on the techniques and strategies employed while speedrunning TCSO. This is aimed towards those who have played the game, however would like further details on how to improve.
 Each chapter has its own page, as well as each GUILT strain to help you keep each area digestable.
@@ -52,8 +53,8 @@ Without text skip, Second Opinion would be insanely long (looking at you Trauma 
 An Episode Select Skip, or commonly known as an ESS is a skip performed after the majority of operations. Each episode has some post-operation dialogue after you get the score. Apart from the operations marked with an asterisk ( * ) , it is faster to hit plus ( + ) to pause, then select Episode Select, and YES. This cuts out all the dialogue and story after the operation. I'd recommend taking a look at existing runners Splits, or using the split files available on [ the Speedrun.com page](https://www.speedrun.com/tcso/resources). **ESS should  also be done on non-operation episodes (eg: 1-4).**
  When performing an ESS on non-operational episodes, you should do so before the title/episode card appears. As such you should mash through the map, then mash plus ( + ) as soon as possible to get the menu up before the title card. Note that there are some non-operation episodes where you can perform an ESS instantly as there is no map, such as 3-1, 4-5, and 6-1.
  
- ### Autosave
- Every time you start a run, you'll need to make sure you turn **off** autosave. Before going to New Game on the main menu, go to Config, then toggle the setting for Auto Save. This ensures the game does not save your progress after each episode as this adds upwards of 3 seconds per each episode, totalling up to nearly 2 minutes. As we are playing all in one go for the run, you don't want this on.
+### Autosave
+Every time you start a run, you'll need to make sure you turn **off** autosave. Before going to New Game on the main menu, go to Config, then toggle the setting for Auto Save. This ensures the game does not save your progress after each episode as this adds upwards of 3 seconds per each episode, totalling up to nearly 2 minutes. As we are playing all in one go for the run, you don't want this on.
 _This setting resets if you load into a save file and come out, so be sure to check it before you start your run._
 
 ### Gel and Bandages
@@ -77,4 +78,4 @@ This is a very very minor thing to worry about, but after some investigation and
 If you wish to go for the new routing option, play the game as normal and after Chapter 1, ignore Z-1 and go back down to 2-1. From then on, you won't ever be transitioned over to the other side of the Episode Select area. When you finish Savato 1 in Chapter 5, you will need to be ready to press the up arrow on the D-PAD while the cursor is on the chapter number on the left. You will need to press this 4 times, then put your cursor at the bottom right and scroll slightly to bring up Z-1.
 Now this isn't something you should really worry about until you get to top-tier times (aka, faster than SZSK / <1:25:00) but running the game in Japanese means there is less text to skip, and it saves you around 25-30 seconds across the entire run. Let me stress: **this is not critical. Just because you have a PAL/NTSC-U copy does not mean you shouldn't try.**
 
- For reference, it is possible to close into a time of 1:21:00 comfortably without worrying about localisation. It is just common that after improving your time and investing yourself into the game for long enough, that having a JP or NTSC-J copy of the game is likely, and not a requirement.
+For reference, it is possible to close into a time of 1:21:00 comfortably without worrying about localisation. It is just common that after improving your time and investing yourself into the game for long enough, that having a JP or NTSC-J copy of the game is likely, and not a requirement.
