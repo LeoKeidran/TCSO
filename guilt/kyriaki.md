@@ -1,6 +1,6 @@
 <div align="justify">
 
-# GUILT - Kyriaki
+# GUILT - Kyriaki [Concealed Blades]
 
 [Back to Main Page](../index.md)
 
