@@ -6,10 +6,9 @@
 header {
   display: none;
 }
-
-a {
-  text-decoration: underline;
-  color: black;
+div {
+  text-align: justify;
+  text-align-last: justify;
 }
 
 td {
@@ -19,7 +18,10 @@ td {
 h1 {
   text-align: center;
   text-decoration: underline;
-  color: black;
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
 }
 
 ul {
