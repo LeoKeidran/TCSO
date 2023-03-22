@@ -8,12 +8,12 @@
 
 The main thing to note for this operation is not to ESS after any of the operations. If you do for the first two, you'll lose your progress. Each patient is a minute or so long. <br>
 The locations for this operation are fixed, and should be completed in this order: <br>
-![](./img/4-2_locations.png)
+![](./img/4-2_locations.png) <br>
 The first two operations will be nearly identical, only the third operation is slightly different. <br>
 Each injection requires only a quarter of the vial, it's a very small amount. <br>
 The ideal routing to get the sample from each one as quickly as possible is to first inject after opening the patient, then wait for it to dive. Ultrasound and cut it out as soon as possible, then draw and inject the serum, and while you wait for it to dive again, gel the cut. <br>
 If you are feeling daring and extra fast with your tool switching, you can save a small amount of time by placing the sample on the tray, switching to the scalpel, cutting, and then draining before the delay kicks in. This is super tight on timing, and realistically you should just aim to drain some of the sample before this kicks in. <br>
-On the final sample you retrieve, it'll go bonkers with gas. You can just wait this out. To be extra optimised, you can try to gel it to make it slow down close to the tray. <br>
+On the final sample you retrieve, it'll go bonkers with gas. You can just wait this out. To be extra optimised, you can try to gel it to make it slow down close to the tray, but this can cause lag. <br>
 
 ## 4-4
 
@@ -70,3 +70,7 @@ Unlike in the research stages, to expose the core, only two injections of the na
 Even if you play optimally, it's very *very* tricky to laser all the mini blue cores on the initial showcasing wave, so aim to laser the four cores working from the left, leaving the furthest on the right. This is due to Victor and Angie talking. <br>
 ![](./img/4-10_blueCores.png) <br>
 At the end of this operation, be wary of Victor talking meaning you have to delay your suture by about half a second. <br>
+
+---
+
+← [Chapter 3](./chp3.md) | [Main Page](../index.md) | [Chapter 5](./chp5.md) →

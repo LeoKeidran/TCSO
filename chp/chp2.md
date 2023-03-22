@@ -7,7 +7,7 @@
 ## 2-1
 
 This operation is perfect for improving your tool swithing due to the pacing needed to drain the thrombi as fast as possible. <br>
-When the op starts, don't forget the initial zoom, you have to do another, once you open the patient. <br>
+When the op starts, don't forget the initial zoom, once you open the patient. If you mash too fast however, you can accidentally zoom out, so be mindful to only hit A once. <br>
 You should start with dealing the thrombus at the very top left corner, working down the organ in a counter-clockwise fashion. <br>
 ![](./img/2-1_initial.png) <br>
 If you are especially fast, you might have to skip the second thrombi initially as it has a slightly delayed spawn. This means you must go for the third instead. <br>
@@ -21,19 +21,19 @@ Deal with these as you did in the first wave. <br>
 ## 2-3*
 
 Since this operation is nothing but drawing stars, the one important thing to note is that Derek will cut you off every time you complete a star. Hold ( C ) or ( Z ) so that any time the star icon appears you know you can draw a star. <br>
-The rest of the below covers how to improve your stars, not just for this operation burt for any HT you need to activate in the rest of the run, making the critical for Savato. <br>
+The rest of the below covers how to improve your stars, not just for this operation but for any HT you need to activate in the rest of the run, making the critical for Savato. <br>
 First, the game calculates stars in the same way as it calculates the sutures, meaning it looks for an angle change that is significant enough to create a line. <br>
 The game can sometimes accept 6 line stars, however this is often because of an extra line that is insignificant enough, often at the tail of the star. <br>
 You can still pop HT if you have drawn all 5 lines, but the fifth does not appear. Note that the line was drawn and upon letting go, the star activates: <br>
 ![](./img/2-3_wonky.png) <br>
 Regardless of where you start your star (top, bottom left, on the right, on the left) you should aim to keep it clean, even if it is a bit slanted or not completely perfect. The game doesn't expect you to be perfect, and in fact having some overlap of the start and end points can mean your star counts. <br>
 From experience, **wide** stars work better than narrow ones. Not entirely sure why, but if the star is wider you're more likely for it to work. <br>
-Play around with the starting position, for example, I prefer starting my stars at the top, as it is in the active area of the operation where you will b working, and you end in the same position. This way I also create more consistent stars. <br>
+Play around with the starting position, for example, I prefer starting my stars at the top, as it is in the active area of the operation where you will be working, and you end in the same position. This way I also create more consistent stars. <br>
 
 ## 2-4
 
-Just like in 1-5, you should premptively zoom the cameara into each area before the aneurysms spawn in. They will always be in same location every time you complete the operation. <br>
-For the first aneurysm, you only need around half of an injection to sedate it. Don't forget about draining teh blood after you extract it onto the tray. <br>
+Just like in 1-5, you should premptively zoom the camera into each area before the aneurysms spawn in. They will always be in same location every time you complete the operation. <br>
+For the first aneurysm, you only need around half of an injection to sedate it. Don't forget about draining the blood after you extract it onto the tray. <br>
 After the first aneurysm, move the camera to the left and boost the vitals up to max. Drawing the serum here will be a waste as Angie will cut you off. The next aneurysm only needs about a quarter to a half of a syringe. <br>
 Premptively move the camera over to the right, and take a full draw of the serum. Here you will need to inject one and then the other. If you are fast enough you should be able to sedate both, and then excise them before it wears off. To do this, ensure you cut them in the same order you injected them. <br>
 You won't be able to draw the sedative before the next wave, so move the camera quickly over to the left. You'll need a full draw, and a little more, so inject into both and top off the other one with some extra to sedate it. Like the previous wave, if you are quick enough you can cut both out before the sedative wears off. <br>
@@ -72,8 +72,12 @@ The defib will start the frame you select the scalpel. <br>
 During the wind up for fibrillation, pull your Wiimote back, so that you can immediately push this forward for the defib. <br>
 
 *With HT*: you should pop HT right after the transition finishes to open the heart, this way there is no lag on the blood particles. You can then drain, cut, and place the valve, and suture. You will need to guess where these go as the blood will cover it up. <br>
-If even this is not enough time, activate the healing touch **before** using the scalpel to open the heart. <br>
+If you are still getting a defib, you may need to activate the Healing Touch before opening the heart up. <br>
 
 *Without HT*: it's possible to just go really fast here, but it is very tight and considered an advanced strat. Same as usual, just that you can only really afford one or (maybe) two mistakes. <br>
 ![](./img/2-11_suture.png) <br>
 Given the sutures are wacky for the valve. You should do vertical sutures (going up and down) across the valve. For the heart itself, just suture across the entire opening. <br>
+
+---
+
+← [Chapter 1](./chp1.md) | [Main Page](../index.md) | [Chapter 3](./chp3.md) →

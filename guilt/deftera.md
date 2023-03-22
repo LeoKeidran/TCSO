@@ -20,6 +20,7 @@ If you are simply waiting for Deftera to merge and there aren't any tumours, boo
 
 Speaking of vitals, you will either find that vitals stay stable throughout, or that you are struggling to keep them up. This is due to the random nature of Deftera, in that the tumours cause a lot of vital damage, especially when there are a lot of them clustered up. To ensure they don't drop too quickly, you should ensure you laser off the large tumours, then the mini tumours. <br>
 When on the final stage of Deftera, after the drain, you need to excise it as quick as possible. If done optimally the vitals should only drop around 20 vitals. This will be exasturbated if you are slower at excision, and lasering the tumours that are created. <br>
+To excise a Deftera pair as soon as possible, I'd recommend cutting around them before the incision line appears, this way you are already doing a circular motion. <br>
 It's possible to go for a double extraction, but note that this costs upwards of 60 vitals to execute safely. This is because with each "pulse" that Deftera gets in, the vitals plummet, and the tumours create a large mess that cause even more vital loss. The double extraction is also incredibly risky on 6-7 where the blood pools spawn. Or else you risk [what happened to IrisJoker](https://www.youtube.com/watch?v=RlSR_997Kc0). <br>
 
 ## Gel
@@ -36,7 +37,12 @@ Note that even if they are different HP values, when a pair is merging, it can s
 
 ## Tumours
 
-Realistically, this is what drains the patient's vitals. In 3-4, where you are first introduced to Deftera, you will have to laser four tumours, this is the only time they'll apear before a wave. <br>
+Realistically, this is what drains the patient's vitals. In 3-4, where you are first introduced to Deftera, you will have to laser four tumours, this is the only time they'll appear before a wave. <br>
 Singular cells of Deftera will spawn their relevant coloured tumour (yellow for red, and dark blue for blue) at a semi-random interval. It's important to laser these as soon as possible to prevent smaller tumours from spawning off of these. <br>
 While the larger tumours cause more vital damage, allowing the smaller tumours to spawn will cause in further damage over time. <br>
 The small tumours *cannot* cause more tumours to spawn, and so the larger tumours should be your first priority, followed by the smaller ones after. <br>
+When Deftera is going beserk as you attempt to extract it, depending on your speed a tumour may also spawn. Ideally, you should deal with this last to allow the membranes to disappear for marginally faster clean-up. <br>
+
+---
+
+← [Kyriaki](./kyriaki.md) | [Main Page](../index.md) | [Triti](./triti.md) →

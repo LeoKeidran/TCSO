@@ -27,14 +27,14 @@ If you can't get this down at first, don't worry - it will come with time. Focus
 
 ## Waves
 
-Kyriaki is based in waves, meaning that in all operations (except for the operations in Chapter 6) you can hold off on starting the next wave and giving yourself time to boost the vitals before you begin. <br>
+Kyriaki is based in waves, meaning that in all operations (except for the operations in Chapter 6), you can hold off on starting the next wave and giving yourself time to boost the vitals before you begin. <br>
 As a general rule of thumb, the next wave of Kyriaki will not start until all the cuts are deal with. <br>
 A wave will always start with the cuts being made. How many cuts determines how many Kyriaki you have to deal with. The exception to this is in the final wave that forms an asterisk. This indicates you are on the final wave and the mature (and any accompanying immatures) have spawned. <br>
 At the start of every wave, ensure you suture the cuts before you begin to hunt the Kyriaki down. <br>
 
 ## Ultrasound
 
-Given we need to ultrasound Kyriaki to be able to excise it, even if we know exactly where it is. Casually you might spam the ultrasound, however this works against trying to find and excise Kyriaki as soon as possible. This is because if you ultrasound Kyriaki once, and it gets revealed, and then you ultrasound again, it can result in Kyriaki disappearing again in a shorter period of time than if you weren't to ultrasound for the second time. <br>
+Given we need to ultrasound Kyriaki to be able to excise it even if we know exactly where it is. Casually you might spam the ultrasound, however this works against trying to find and excise Kyriaki as soon as possible. This is because if you ultrasound Kyriaki once, and it gets revealed, and then you ultrasound again, it can result in Kyriaki disappearing again in a shorter period of time than if you weren't to ultrasound for the second time. <br>
 The solution to this is to ultrasound far less frequently, once a second is enough generally to find it. The exception to this is if you ultrasound and don't find it at all, or only get it briefly. Then ultrasounding again either at next searching spot or where you know Kyriaki now is to get a confirmed reveal is much better. <br>
 It's best to ultrasound towards the centre of the organ to reveal Kyriaki, especially in the lungs given the smaller space they can be in. Even if you don't get a confirmed ultrasound, waiting half a second to a second will be enough time for Kyriaki to move closer to the centre. <br>
 
@@ -46,5 +46,9 @@ To go along side this, you will notice that for Paitent 3 onwards in 5-2, there 
 ## Pathing
 
 Kyriaki is limited to the shape of the organ, meaning you will never find it in the outer area of the operation field. This means that whenever it reaches the edge of the organ, it will bounce back inwards. <br>
-When a cut is made either at the start of a wave, or when the mature is dives, Kyriaki will continue the direction it was facing or the cut. <br>
+When a cut is made either at the start of a wave, or when the mature is dives, Kyriaki will continue the direction it was facing of the cut. This applies to the mature as well, where it can be found at the top of the organ, given the final cut ends there.<br>
 Additionally, the cut will never go beyond the bounds of the organ (and if it does, it'll still be within the boundaries set by the game). When Kyriaki makes a cut, it randomly picks a direction, and if it can fit within the organ space, it makes the cut. This means if you expose Kyriaki near the edge of the organ, it will cut away from the edge, often inwards towards the centre. <br>
+
+---
+
+[Main Page](../index.md) | [Deftera](./deftera.md) →

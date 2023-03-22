@@ -80,3 +80,7 @@ To get "Lagless Savato" you must activate the Healing Touch when no new cuts are
 Drawing a star within this window however can be incredibly difficult, and so instead you should **buffer** the star. To do this, draw the star as normal, however do not let go of A or B on the final line, and instead hold your cursor at the end point. You can in theory do this indefinitely. Let go of A or B to then pop the star once the blood has dissipated: <br>
 ![](./img/savato_bufferHT.gif) <br>
 Note in the example above, I have drawn the serum before popping Derek's HT. This can be done in 5-8 where Savato doesn't attack for a longer period. This period you would be waiting anyway if applying the buffered HT technique, so drawing the serum here saves a small amount of time. Unfortunately Savato in 6-8 is too aggressive to do this. <br>
+
+---
+
+← [Paraskevi](./paraskevi.md) | [Main Page](../index.md) |

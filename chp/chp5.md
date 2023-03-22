@@ -73,3 +73,7 @@ This skip is very tight, and can can *only* be done on this op and *not* on Sava
 ![](./img/5-9_web.png) <br>
 For an easier time-save, after the final injection for Savato, before drawing the star, take a full injection of the serum, then draw the star. Savato shouldn't make any additional cuts in the time it takes you to complete this. <br>
 ![](./img/5-9_injection.png)
+
+---
+
+← [Chapter 4](./chp4.md) | [Main Page](../index.md) | [Chapter Z](./chpZ.md) →

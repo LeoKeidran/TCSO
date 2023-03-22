@@ -65,4 +65,8 @@ The web phase is RNG, and you might get 4 or 5 web in the secondary stage. <br>
 It isn't possible to get a web-skip on the final stage, so cut each overlap. As you cut the final overlap, an extra strand will spawn. While you wait for the scalpel, be sure to laser all the immatures. <br>
 As Savato 2 is generally more aggressive, be mindful of the vitals given they can drop. <br>
 In the second shield phase, if you need to, you can use Naomi's HT without worrying you can't finish the operation, as you are playing as both Derek and Naomi. <br>
-On the first and second shield phases, you don't need to focus on the immatures too much, less they are getting out of hand and likely to spawn a larger blue savato which will half the vitals. <br>
+On the first and second shield phases, you don't need to focus on the immatures too much, lest they are getting out of hand and likely to spawn a larger blue savato which will half the vitals. <br>
+
+---
+
+← [Chapter Z](./chpZ.md) | [Main Page](../index.md)

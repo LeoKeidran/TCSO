@@ -4,7 +4,7 @@
 
 [Back to Main Page](../index.md)
 
-***This advice applies to all Operations that involve Triti.*** <br>
+***This advice applies to all Operations that involve Tetarti.*** <br>
 
 It's like Atlus wanted to include Simons says! This GUILT strain is generally straight forward, but requires a stable hand, more so than the other strains. <br>
 
@@ -40,3 +40,7 @@ This in itself isn't too difficult, and if anything the gas makes it easier to i
 Note however the that vitals drop much quicker, so be sure to boost between waves. <br>
 Derek will make a hum in Japanese, and a groan in English when you are half way through the Tetarti phases. <br>
 Overlap is a large concern in this operation, so be sure to wait longer than normal for Tetarti to spread out a little if it is too hard to tell which one is emitting which coloured gas. Note if you take too long however, you will need to reinject the dose. <br>
+
+---
+
+← [Triti](./triti.md) | [Main Page](../index.md) | [Pempti](./pempti.md) →

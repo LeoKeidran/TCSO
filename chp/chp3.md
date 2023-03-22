@@ -17,7 +17,7 @@ After you finish dealing with Kyriaki, and you close up the patient, you will ha
 
 In the pre-op there is a quite a bit of time so spend this time to stretch! <br>
 
-***Please follow the Deftera Advice found under [ - Deftera](../guilt/deftera.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Deftera Advice found under [GUILT - Deftera](../guilt/deftera.md) for this operation. The below is operation specific advice.*** <br>
 
 The tumour locations are always the same in small clusters, there is no set order to laser these in but this is the order I take: <br>
 ![](./img/3-4_tumours.png) <br>
@@ -69,3 +69,7 @@ From there, you can then remove the right-most three triangles. <br>
 Next, you can remove the thorns surrounding the centre two triangles, and remove them afterwards. <br>
 ![](./img/3-10_secondExtract.png) <br>
 Finally, you can remove the last set of thorns and the final three triangles. <br>
+
+---
+
+← [Chapter 2](./chp2.md) | [Main Page](../index.md) | [Chapter 4](./chp4.md) →

@@ -6,7 +6,7 @@
 	
 ## 1-1*
 
-Be mindful of the small little delays whenever Mary talks. This is notably right att he start when she asks you to suture, and again when she instructs you to use the forceps. <br>
+Be mindful of the small little delays whenever Mary talks. This is notably right at the start when she asks you to suture, and again when she instructs you to use the forceps. <br>
 You should suture the left cut, and then the right for less cursor movement. <br>
 ![](./img/1-1_suture.png) <br>
 After you've pulled out the shards, tap the gel on each of the small cuts. <br>
@@ -44,7 +44,7 @@ After lasering and gelling over all the holes, pre-emptively move the view to wh
 	
 ## 1-6
 
-For this operation you'll need to be careful of the vitas. Below are suggestions based on my own experience, but I highly recommend seeing what works for you in terms of consistency. <br>
+For this operation you'll need to be careful of the vitals. Below are suggestions based on my own experience, but I highly recommend seeing what works for you in terms of consistency. <br>
 You first want to deal with the tumours. They are always in the same location, and should not use the ultrasound to reveal them first. You can do two diagonal slashes to reveal them in two pairs. <br>
 ![](./img/1-6_tumours.png) <br>
 Just like in 1-3, you'll want to drain these, and then cut them out in reverse order (1>2>3>4 followed by 4>3>2>1). This requires you to be precise and quick, and if you are unsure, aim to tackle two at a time. <br>
@@ -64,3 +64,7 @@ Once inside the patient, aim to pull the glass out all in one go. The vitals don
 After pulling out the shards, tap the gel on each cut as it is faster than slathering it all over. <br>
 Once this is done, you have a brief moment before another defib hits, so pull back on your Wiimote. Don't worry if the vitals are trickling down, as they will get lowered to 10 for the defib and recovered after. <br>
 There will be an extra shard of glass after the defib, followed by the Auto-HT and cut to suture. This is a bit larger than most, so you may need extra lines to complete the suture.
+
+---
+
+[Main Page](../index.md) | [Chapter 2](./chp2.md) →
