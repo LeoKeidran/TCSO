@@ -1,4 +1,3 @@
-<div align="justify">
 
 # GUILT - Tetarti [Synchronised Venom]
 

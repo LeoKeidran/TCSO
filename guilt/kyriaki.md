@@ -1,4 +1,3 @@
-<div align="justify">
 
 # GUILT - Kyriaki [Concealed Blades]
 

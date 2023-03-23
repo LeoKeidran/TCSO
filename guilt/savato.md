@@ -1,4 +1,3 @@
-<div align="justify">
 
 # GUILT - Savato [Face-Off with Death]
 

@@ -1,4 +1,3 @@
-<div align="justify">
 
 # GUILT - Paraskevi [Arrow to the Heart]
 

@@ -3,20 +3,32 @@
 
 @import "{{ site.theme }}";
 
+/* Remove Header */
 header {
   display: none;
 }
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+/* Set all text to centrally justify */
 body {
   text-align: justify;
   text-align-last: left;
 }
 
 h1 {
-  text-align: center;
   text-decoration: underline;
 }
 
 h2 {
+  text-decoration: underline;
+  color: black;
+}
+
+h3 {
   text-decoration: underline;
   color: black;
 }
