@@ -5,7 +5,7 @@
 
 ## 2-1
 
-This operation is perfect for improving your tool swithing due to the pacing needed to drain the thrombi as fast as possible. <br>
+This operation is perfect for improving your tool switching due to the pacing needed to drain the thrombi as fast as possible. <br>
 When the op starts, don't forget the initial zoom, once you open the patient. If you mash too fast however, you can accidentally zoom out, so be mindful to only hit A once. <br>
 You should start with dealing the thrombus at the very top left corner, working down the organ in a counter-clockwise fashion. <br>
 ![](./img/2-1_initial.png) <br>
