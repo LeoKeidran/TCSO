@@ -16,6 +16,7 @@ To execute the scalpel glitch, have the scalpel selected and with your cursor ov
 Note that the scalpel, while still showing as inactive can be used. This is because tools restore slightly earlier than the UI suggests, meaning in the example below, I cut the first strand normally, and execute the HT glitch for the second strand. <br>
 ![](./img/savato_scalpelGlitch.gif) <br>
 There is an ideal order on the third/final phase of webs. This order leaves you with one strand by itself after the third overlapping web is cut. Doing it this way will also leave extra strand that is made by Savato placed in a way that does not interrupt your existing cuts. Even on 6-7 where the webs turn red, you have enough time to laser the immatures before cutting the webs. <br>
+The area indicated in pink on the web, is the web that will respawn, and will inevitably the final web you cut (unless you perform the web-skip noted below).
 ![](./img/savato_finalWebs.png) <br>
 
 ## Web Skip
