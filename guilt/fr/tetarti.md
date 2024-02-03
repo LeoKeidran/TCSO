@@ -1,9 +1,9 @@
 
-# GUILT - Tetarti [Synchronised Venom]
+# TAC - Tetarti [Venin synchronisé]
 
-[Back to Main Page](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***This advice applies to all Operations that involve Tetarti.*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Tetarti.*** <br>
 
 It's like Atlus wanted to include Simons says! This GUILT strain is generally straight forward, but requires a stable hand, more so than the other strains. <br>
 
@@ -42,4 +42,4 @@ Overlap is a large concern in this operation, so be sure to wait longer than nor
 
 ---
 
-← [Triti](triti.md) | [Main Page](../../index/eng/index.md) | [Pempti](pempti.md) →
+← [Triti](triti.md) | [Page principale](../../index/fr/index.md) | [Pempti](pempti.md) →

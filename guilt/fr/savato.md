@@ -1,9 +1,9 @@
 
-# GUILT - Savato [Face-Off with Death]
+# TAC - Savato [Rencontre avec la Mort]
 
-[Back to Main Page](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***This advice applies to all Operations that involve Savato.*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Savato.*** <br>
 
 Acting as the final boss to the game, Savato is a test of precision, tool management, and adaptability. But you'll be glad to read we have multiple techniques to make this strain as smooth as possible. But that doesn't stop it from sapping seconds away due to it's aggressive behaviour and RNG. <br>
 
@@ -85,4 +85,4 @@ Note in the example above, I have drawn the serum before popping Derek's HT. Thi
 
 ---
 
-← [Paraskevi](paraskevi.md) | [Main Page](../../index/eng/index.md) |
+← [Paraskevi](paraskevi.md) | [Page principale](../../index/fr/index.md) |

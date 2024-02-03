@@ -1,7 +1,7 @@
 
-# Chapter 4
+# Chapitre 4
 
-[Back to Main Page](../index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
 ## 4-2*
 
@@ -18,7 +18,7 @@ On the final sample you retrieve, it'll go bonkers with gas. You can just wait t
 
 While in the pre-op dialogue you can take this time to stretch. <br>
 
-***Please follow the Tetarti Advice found under [GUILT - Tetarti](../guilt/tetarti.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Tetarti Advice found under [TAC - Tetarti](../../guilt/fr/tetarti.md) for this operation. The below is operation specific advice.*** <br>
 
 The diverticula are always located in the same spots, and same colours every time. <br>
 You should inject all three of these before cutting and extracting, as this reduces the amount of serum you need to inject overall. Start with yellow as this is the first to get bigger, then green, then purple. <br>
@@ -64,7 +64,7 @@ You should aim to complete the puzzle in the same order for consistency, that wa
 
 Unlike in the research stages, to expose the core, only two injections of the nanomachines is needed. <br>
 
-***Please follow the Pempti Advice found under [GUILT - Pempti](../guilt/pempti.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Pempti Advice found under [TAC - Pempti](../../guilt/fr/pempti.md) for this operation. The below is operation specific advice.*** <br>
 
 Even if you play optimally, it's very *very* tricky to laser all the mini blue cores on the initial showcasing wave, so aim to laser the four cores working from the left, leaving the furthest on the right. This is due to Victor and Angie talking. <br>
 ![](./img/4-10_blueCores.png) <br>
@@ -72,4 +72,4 @@ At the end of this operation, be wary of Victor talking meaning you have to dela
 
 ---
 
-← [Chapter 3](./chp3.md) | [Main Page](../index.md) | [Chapter 5](./chp5.md) →
+← [Chapitre 3](./chp3.md) | [Page principale](../../index/fr/index.md) | [Chapitre 5](./chp5.md) →

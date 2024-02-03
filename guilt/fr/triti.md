@@ -1,9 +1,9 @@
 
-# GUILT - Triti [Contagious Nightmare]
+# TAC - Triti [Le cauchemar contagieux]
 
-[Back to Main Page](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***This advice applies to all Operations that involve Triti.*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Triti.*** <br>
 
 Triti is one of the most trivial GUILT strains in a speedrun setting, however casually it's a nightmare, hence the name. <br>
 
@@ -37,4 +37,4 @@ After extracting all the thorns, you can use a standard left-to-right motion for
 
 ---
 
-← [Deftera](deftera.md) | [Main Page](../../index/eng/index.md) | [Tetarti](tetarti.md) →
+← [Deftera](deftera.md) | [Page principale](../../index/fr/index.md) | [Tetarti](tetarti.md) →

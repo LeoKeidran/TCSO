@@ -1,9 +1,9 @@
 
-# GUILT - Paraskevi [Arrow to the Heart]
+# TAC - Paraskevi [Flèche dans le coeur]
 
-[Back to Main Page](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***This advice applies to all Operations that involve Paraskevi.*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Paraskevi.*** <br>
 
 This strain tests your precision more than anything, and your sutures. Given how time sensitive Paraskevi is, it can be nerve racking especially while on the heart, but there's a few tricks we can employ to make this easier. With practice, Paraskevi can become incredibly cathartic. <br>
 
@@ -35,4 +35,4 @@ On the final wave when the Mature Kyriaki spawns, the Paraskevi should still be 
 
 ---
 
-← [Pempti](pempti.md) | [Main Page](../../index/eng/index.md) | [Savato](savato.md) →
+← [Pempti](pempti.md) | [Page principale](../../index/fr/index.md) | [Savato](savato.md) →

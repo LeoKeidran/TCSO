@@ -1,9 +1,9 @@
 
-# GUILT - Kyriaki [Concealed Blades]
+# TAC - Kyriaki [Lames dissimulées]
 
-[Back to Main Page](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***This advice applies to all Operations that involve Kyriaki.*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Kyriaki.*** <br>
 
 Kyriaki is the most common GUILT Type, occuring in ten patients across the entire game, so being proficient at tackling it will show huge benefits to your time.  <br>
 Improving your Kyriaki will also greatly help with your tool switching across the entire game, given how skill based it is. <br>
@@ -50,4 +50,4 @@ Additionally, the cut will never go beyond the bounds of the organ (and if it do
 
 ---
 
-[Main Page](../../index/eng/index.md) | [Deftera](deftera.md) →
+[Page principale](../../index/fr/index.md) | [Deftera](deftera.md) →

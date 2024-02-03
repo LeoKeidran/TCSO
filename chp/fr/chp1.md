@@ -1,7 +1,7 @@
 
-# Chapter 1
+# Chapitre 1
 
-[Back to Main Page](../index.md)
+[Retour à la page principale](../../index/fr/index.md)
 	
 ## 1-1*
 
@@ -66,4 +66,4 @@ There will be an extra shard of glass after the defib, followed by the Auto-HT a
 
 ---
 
-[Main Page](../index.md) | [Chapter 2](./chp2.md) →
+[Page principale](../../index/fr/index.md) | [Chapitre 2](./chp2.md) →

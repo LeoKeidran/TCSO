@@ -6,22 +6,22 @@ Each chapter has its own page, as well as each GUILT strain to help you keep eac
 
 ## Table of Contents
 ### Game Chapters
-* [Chapter 1](chp/chp1.md)
-* [Chapter 2](chp/chp2.md)
-* [Chapter 3](chp/chp3.md)
-* [Chapter 4](chp/chp4.md)
-* [Chapter 5](chp/chp5.md)
-* [Chapter Z](chp/chpZ.md)
-* [Chapter 6](chp/chp6.md)
+* [Chapter 1](../../chp/eng/chp1.md)
+* [Chapter 2](../../chp/eng/chp2.md)
+* [Chapter 3](../../chp/eng/chp3.md)
+* [Chapter 4](../../chp/eng/chp4.md)
+* [Chapter 5](../../chp/eng/chp5.md)
+* [Chapter Z](../../chp/eng/chpZ.md)
+* [Chapter 6](../../chp/eng/chp6.md)
 
 ### GUILT Guides
-* [Kyriaki](guilt/kyriaki.md)
-* [Deftera](guilt/deftera.md)
-* [Triti](guilt/triti.md)
-* [Tetarti](guilt/tetarti.md)
-* [Pempti](guilt/pempti.md)
-* [Paraskevi](guilt/paraskevi.md)
-* [Savato](guilt/savato.md)
+* [Kyriaki](../../guilt/eng/kyriaki.md)
+* [Deftera](../../guilt/eng/deftera.md)
+* [Triti](../../guilt/eng/triti.md)
+* [Tetarti](../../guilt/eng/tetarti.md)
+* [Pempti](../../guilt/eng/pempti.md)
+* [Paraskevi](../../guilt/eng/paraskevi.md)
+* [Savato](../../guilt/eng/savato.md)
 
 ## Overall Guidance
 

@@ -1,7 +1,7 @@
 
 # Chapter 2
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ## 2-1
 
@@ -52,7 +52,7 @@ It doesn't matter which cut you start with first, but ensure you finish one cut 
 
 Like in 2-6, drain each cut, then close them and suture, as this is faster than collectively dealing with the large cuts. <br>
 
-***Please follow the Kyriaki Advice found under [GUILT - Kyriaki](../guilt/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Kyriaki Advice found under [GUILT - Kyriaki](../../guilt/eng/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
 
 After you suture the newly created cut, immediately ultrasound towards the centre of the operation area as this is often where the first immature will be. <br>
 Note that this isn't always necessarily the case, and you should follow the general Kyriaki advice, but more often than not, the immature will be in this area. <br>
@@ -79,4 +79,4 @@ Given the sutures are wacky for the valve. You should do vertical sutures (going
 
 ---
 
-← [Chapter 1](./chp1.md) | [Main Page](../index.md) | [Chapter 3](./chp3.md) →
+← [Chapter 1](./chp1.md) | [Main Page](../../index/eng/index.md) | [Chapter 3](./chp3.md) →

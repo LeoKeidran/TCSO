@@ -1,13 +1,13 @@
 
-# Chapter 3
+# Chapitre 3
 
-[Back to Main Page](../index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
 ## 3-2*
 
 With the big lacerations you should drain the blood of one cut, close and suture before you deal with the next. <br>
 
-***Please follow the Kyriaki Advice found under [GUILT - Kyriaki](../guilt/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Kyriaki Advice found under [TAC - Kyriaki](../../guilt/fr/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
 
 There are quite a few long waits between waves, so you can boost vitals if necessary. <br>
 After you finish dealing with Kyriaki, and you close up the patient, you will have to awkwardly wait for Sydeny to stop talking to Angie about Chirality to be able to finalise the operation. <br>
@@ -16,7 +16,7 @@ After you finish dealing with Kyriaki, and you close up the patient, you will ha
 
 In the pre-op there is a quite a bit of time so spend this time to stretch! <br>
 
-***Please follow the Deftera Advice found under [GUILT - Deftera](../guilt/deftera.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Deftera Advice found under [TAC - Deftera](../../guilt/fr/deftera.md) for this operation. The below is operation specific advice.*** <br>
 
 The tumour locations are always the same in small clusters, there is no set order to laser these in but this is the order I take: <br>
 ![](./img/3-4_tumours.png) <br>
@@ -58,7 +58,7 @@ On the second to last wave, you can perform an early ultrasound right as the tur
 
 Be sure to switch back to Normal (if running Normal/Easy difficulty) after 3-8. <br>
 
-***Please follow the Triti Advice found under [GUILT - Triti](../guilt/triti.md) for this operation. The below is operation specific advice.*** <br>
+***Please follow the Triti Advice found under [TAC - Triti](../../guilt/fr/triti.md) for this operation. The below is operation specific advice.*** <br>
 
 It's possible to just pull out all the thorns and then all the triangles of Triti without using the Healing Touch here. This requires you to be consistent and confident you can do this. <br>
 Angie and the Head of Caduceus Europe will cut you off when you first select the forceps, and then again when you have dropped off the first thorn. <br>
@@ -71,4 +71,4 @@ Finally, you can remove the last set of thorns and the final three triangles. <b
 
 ---
 
-← [Chapter 2](./chp2.md) | [Main Page](../index.md) | [Chapter 4](./chp4.md) →
+← [Chapitre 2](./chp2.md) | [Page principale](../../index/fr/index.md) | [Chapitre 4](./chp4.md) →

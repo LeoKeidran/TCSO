@@ -1,9 +1,9 @@
 
 # TAC - Deftera [Tumeurs qui bougent]
 
-[Retour à la page principale](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***Ces conseils s'appliquent à toutes les opérations qui impliquent Deftera*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Deftera.*** <br>
 
 Deftera n'apparait que deux fois dans le jeu, cependant les deux fois il agit comme un barrage à l'entièreté de la run. Comprendre comment Deftera fonctionne peut vous aider à le contrôler, cependant rappelez vous que sa nature aléatoire le rend difficile à apprivoiser et que même avec tout l'entraînement et les guides du monde, à la fin Deftera fait ce qui lui plaît. <br>
 
@@ -44,4 +44,4 @@ Quand Deftera devient en mode "beserk" quand vous tentez de l'extraire, selon vo
 
 ---
 
-← [Kyriaki](kyriaki.md) | [Page principale](../../index/eng/index.md) | [Triti](triti.md) →
+← [Kyriaki](kyriaki.md) | [Page principale](../../index/fr/index.md) | [Triti](triti.md) →

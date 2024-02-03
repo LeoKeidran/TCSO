@@ -1,9 +1,9 @@
 
-# GUILT - Pempti [Armoured Bacteria]
+# TAC - Pempti [Bactérie à armure]
 
-[Back to Main Page](../../index/eng/index.md)
+[Retour à la page principale](../../index/fr/index.md)
 
-***This advice applies to all Operations that involve Pempti.*** <br>
+***Ces conseils s'appliquent à toutes les opérations qui impliquent Pempti.*** <br>
 
 Pempti is essentially a side-scroller, meaning there is only so much time-save you can squeeze out of this strain. The main improvements you can make is to ensure you do not let this strain get out of control. <br>
 
@@ -31,4 +31,4 @@ There are a total of 8 health points for the main core for Pempti, at the fourth
 
 ---
 
-← [Tetarti](tetarti.md) | [Main Page](../../index/eng/index.md) | [Paraskevi](paraskevi.md) →
+← [Tetarti](tetarti.md) | [Page principale](../../index/fr/index.md) | [Paraskevi](paraskevi.md) →
