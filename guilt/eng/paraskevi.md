@@ -1,7 +1,7 @@
 
 # GUILT - Paraskevi [Arrow to the Heart]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Paraskevi.*** <br>
 
@@ -35,4 +35,4 @@ On the final wave when the Mature Kyriaki spawns, the Paraskevi should still be 
 
 ---
 
-← [Pempti](./pempti.md) | [Main Page](../index.md) | [Savato](./savato.md) →
+← [Pempti](pempti.md) | [Main Page](../../index/eng/index.md) | [Savato](savato.md) →

@@ -1,7 +1,7 @@
 
 # GUILT - Kyriaki [Concealed Blades]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Kyriaki.*** <br>
 
@@ -21,7 +21,7 @@ Do ***not*** ignore the cuts that are created for too long. It's important to su
 Conviniently, the four main tools you use in this operation are on cardinal directions of the nunchuck: Gel, Sutures, Laser, and Scalpel. The only tools that are diagonal are the Ultrasound and Drain, and Forceps, the latter two of which are only used right at the start of treatment. <br>
 Ensuring your tool switching is consistent and effective will greatly improve your chances with dealing with Kyriaki is a quick manner. Tool ordering will look something like: <br>
 Suture, Ultrasound, Scalpel, Gel, Laser, Suture. <br>
-![](./img/kyriaki_toolSwitching.gif) <br>
+![](../img/kyriaki_toolSwitching.gif) <br>
 If you can't get this down at first, don't worry - it will come with time. Focus on getting this order down to ensure it's ingrained for when you do start to pick up the pace. <br>
 
 ## Waves
@@ -50,4 +50,4 @@ Additionally, the cut will never go beyond the bounds of the organ (and if it do
 
 ---
 
-[Main Page](../index.md) | [Deftera](./deftera.md) →
+[Main Page](../../index/eng/index.md) | [Deftera](deftera.md) →

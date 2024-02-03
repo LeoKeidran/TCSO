@@ -1,7 +1,7 @@
 
 # GUILT - Deftera [Creeping Tumours]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Deftera.*** <br>
 
@@ -44,4 +44,4 @@ When Deftera is going beserk as you attempt to extract it, depending on your spe
 
 ---
 
-← [Kyriaki](./kyriaki.md) | [Main Page](../index.md) | [Triti](./triti.md) →
+← [Kyriaki](kyriaki.md) | [Main Page](../../index/eng/index.md) | [Triti](triti.md) →

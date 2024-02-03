@@ -1,7 +1,7 @@
 
 # GUILT - Triti [Contagious Nightmare]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Triti.*** <br>
 
@@ -15,7 +15,7 @@ Triti has two rules that it abides by that apply any time you remove a membrane.
 2. If a singular thorn is left when a membrane is extracted, it will create three membranes on the edges of the final membrane.
 Note that Triti, like the other GUILT strains is confined by the organ. A safety strat is to back Triti into a corner if you are unable to extract it all. <br>
 These rules are checked every time a membrane is removed, so if you extract a membrane while there is space for it to expand, and you remove another, it will spread further than expected. <br>
-![](./img/triti_rules.png) <br>
+![](../img/triti_rules.png) <br>
 
 ## Blue Segments
 
@@ -32,9 +32,9 @@ Generally using the Healing Touch should mean you won't have to deal with any ga
 The fastest method to removing Triti is to pull out all the thorns, followed by all the membranes. This is to be done throughout the entire organ, not just one segment. Despite the fact they may look separated, Triti acts as one entity. This ensures that all the membranes are neutralised and that it won't expand with no thorns available. <br>
 Using the healing touch can give you more time to do this, and is highly recommended. <br>
 Given the thorns must be extracted upward by about 5 pixels, extracting in clockwise circular motions can make this easier, by lifting the thorn up, then round in an arc to the tray, and repeating. The below is slightly more emphasized than the path you need to take, but this shows the premise. This ensures you can pick-up each thorn easily. <br>
-![](./img/triti_movement.png) <br>
+![](../img/triti_movement.png) <br>
 After extracting all the thorns, you can use a standard left-to-right motion for extracting the membranes. <br>
 
 ---
 
-← [Deftera](./deftera.md) | [Main Page](../index.md) | [Tetarti](./tetarti.md) →
+← [Deftera](deftera.md) | [Main Page](../../index/eng/index.md) | [Tetarti](tetarti.md) →
