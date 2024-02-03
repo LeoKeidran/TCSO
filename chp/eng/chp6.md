@@ -16,10 +16,10 @@ The gas let off the Tetarti can do quite a bit of damage, so boost the vitals be
 ***Please follow the Kyriaki and Paraskevi Advice found under [GUILT - Kyriaki](../../guilt/eng/kyriaki.md), and [GUILT - Paraskevi](../../guilt/eng/paraskevi.md) for this operation. The below is operation specific advice.*** <br>
 
 After you suture all the initial cuts, the next set of cuts appear on the left side of the heart: <br>
-![](./img/6-4_firstCuts.png) <br>
+![](../img/6-4_firstCuts.png) <br>
 Once you suture the first two cuts, extract the Paraskevi segments. <br>
 The next three cuts also appear on the left and middle of the heart: <br>
-![](./img/6-4_secondCuts.png) <br>
+![](../img/6-4_secondCuts.png) <br>
 After extracting all of the Paraskevi, pop Naomi's Healing Touch, and begin dealing with the five immature Kyriaki. It's recommended you expose all five before treating. <br>
 Note that each immature takes **three hits** to kill. <br>
 Upon dealing with the immatures, and suturing the cuts, there is a brief period of downtime to wait. <br>
@@ -50,7 +50,7 @@ After dealing with the first few immatures, the next wave will start immediately
 Note that the mature will be accompanied by an immature as well. <br>
 
 For Deftera, it is best to aim to drain multiple pools of blood at once: <br>
-![](./img/6-7_blood.png) <br>
+![](../img/6-7_blood.png) <br>
 Blood will occasionally spawn, but it should be the last thing you deal with unless it is in the way of you draining or lasering a tumour. <br>
 
 For Paraskevi, if you have concerns, you can utilise Naomi's HT to boost the vitals back to max; it's best to do this after you have dealt with half of it. <br>
