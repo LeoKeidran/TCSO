@@ -9,11 +9,10 @@ It's like Atlus wanted to include Simons says! This GUILT strain is generally st
 
 ## Diverticula
 
-The abscesses that appear on the start of nearly all Tetarti operations, except for 6-3, must be removed prior to the real fight starting with Tetarti itself. You should always inject the **yellow** serum first into the yellow diverticulum, followed by the **green** serum and finally **purple**.
- <br>
- This order is the fastest, and ensures that the individual polyps do not expand beyond a singular stage. <br>
- The process for extraction should be as follows: Inject approximately 1/4 of a dose, excise. Repeat until all three are dealt with. Then drop onto the tray and patch up. You should tap the gel on each membranes to be optimal. <br>
- ![](../img/tetarti_diverticula.gif) <br>
+The abscesses that appear on the start of nearly all Tetarti operations, except for 6-3, must be removed prior to the real fight starting with Tetarti itself. You should always inject the **yellow** serum first into the yellow diverticulum, followed by the **green** serum and finally **purple**. <br>
+This order is the fastest, and ensures that the individual polyps do not expand beyond a singular stage. <br>
+The process for extraction should be as follows: Inject approximately 1/4 of a dose, excise. Repeat until all three are dealt with. Then drop onto the tray and patch up. You should tap the gel on each membranes to be optimal. <br>
+![](../img/tetarti_diverticula.gif) <br>
 In the event you hit the wrong cell with an injection, be ready to inject and extract the abscess before it gets too large. It is better to pass up a cycle by extracting, than to watch the patient's vitals plummet. You should treat them in the same way as above in the pre-wave. <br>
  
 ## Injections

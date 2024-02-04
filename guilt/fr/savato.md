@@ -5,83 +5,83 @@
 
 ***Ces conseils s'appliquent à toutes les opérations qui impliquent Savato.*** <br>
 
-Acting as the final boss to the game, Savato is a test of precision, tool management, and adaptability. But you'll be glad to read we have multiple techniques to make this strain as smooth as possible. But that doesn't stop it from sapping seconds away due to it's aggressive behaviour and RNG. <br>
+Agissant comme boss final du jeu, Savato est un test de précision, de management des outils, et d'adaptabilité. Mais vous allez être enchanté de lire que nous avons plusieurs techniques pour faire en sorte que cette souche soit plus facile. Mais ça ne l'empêche pas de faire perdre des secondes due à son agressivité et son comportement RNG (aléatoire). <br>
 
-## Web Phase & Scalpel Glitch
+## Phase de la toile & Glitch du scalpel
 
-After you've opened the patient, you first need to cut the webs. The optimal method is to cut where two strands overlap. <br>
-Doing this will result in the strand left over being at a single point of health. <br>
-Cutting each overlap means you're effectively doing less cutting for the same amount of scalpel burnout. <br>
-To execute the scalpel glitch, have the scalpel selected and with your cursor over a strand, hold A. Next, tap C or Z as if you were going to initiate Healing Touch. For one frame, the scalpel will cut despite it being unavailable. ***Only do this trick when the scalpel is out of action***. <br>
-Note that the scalpel, while still showing as inactive can be used. This is because tools restore slightly earlier than the UI suggests, meaning in the example below, I cut the first strand normally, and execute the HT glitch for the second strand. <br>
+Après avoir ouvert le patient, vous devrez tout d'abord couper la toile. La méthode la plus efficace pour se faire est de se placer à l'intersection de deux segments. <br>
+Faire cette technique fait que le brin qui n'a pas été coupé parmi les deux se retrouve à un point de vie. <br>
+Couper à chaque intersection fait que vous êtes efficace: en faisant moins de coupe pour le même nombre de scalpel utilisés. <br>
+Pour utiliser le glitch du scalpel, selectionnez le scalpel avec votre curseur sur un brin, maintenez A. Puis, pressez C ou Z comme si vous alliez faire la main curatrice. Pendant une frame, le scalpel va avoir la capacité de couper malgré qu'il soit inutilisable. ***Ne faites cette technique que si le scalpel est inutilisable***. <br>
+Notez que le scalpel, pendant qu'il est affiché comme inutilisable peut en réalité l'être. C'est parce que les outils sont réparés légèrement plutôt que ce que l'interface graphique vous laisse penser, ce qui veut dire que dans l'exemple ci-dessous, j'ai coupé le premier brin normalement, puis j'ai utiliser le glitch avec la main curatrice pour le deuxième. <br>
 ![](../img/savato_scalpelGlitch.gif) <br>
-There is an ideal order on the third/final phase of webs. This order leaves you with one strand by itself after the third overlapping web is cut. Doing it this way will also leave extra strand that is made by Savato placed in a way that does not interrupt your existing cuts. Even on 6-7 where the webs turn red, you have enough time to laser the immatures before cutting the webs. <br>
-The area indicated in pink on the web, is the web that will respawn, and will inevitably the final web you cut (unless you perform the web-skip noted below). <br>
+Il y a un ordre idéal pour la troisième/dernière phase avec la toile. Cet ordre vous laisse avec un brin après que trois intersections de la toile aient été coupées. Le faire de cette manière va aussi laisser un autre brain qui est créé par Savato qui ne va pas déranger les coupures déjà faites. Même dans l'opération 6-7 quand la toile devient rouge, vous avez asser de temps pour brûler au laser les larves avant de couper la toile. <br>
+La zone indiquée en rose est la toile qui va réapparaître, et doit inévitablement être le dernier brin que vous coupez (à moins que vous faites le web-skip noté ci-dessous). <br>
 ![](../img/savato_finalWebs.png) <br>
 
 ## Web Skip
 
-With the above knowledge, on 5-9 you can perform a Web Skip on second web stage, if you have poor RNG and get 5 web strands. To execute this, you first must execute the Scalpel/HT Glitch roughly 5 times on a singular strand while you wait for your scalpel to regenerate after the previous phase. Be sure to stop doing the glitch before your scalpel returns however or your scalpel will be out of action for even longer. Once it has returned, cut two overlapping strands normally, performing the glitch normally. Again, while you wait for your scalpel to return, perform the glitch 5 times again on the singular strand. Stop before your scalpel returns and cut the two overlapping strands once more, then one the final set of 5 the strand should break. <br>
-**Only do this on 5-9, and when you get 5 web strands.** <br>
+Avec les connaissances de ci-dessus, dans l'opération 5-9 on peut effectuer un Web Skip à l'étape deux, si on a une mauvaise RNG et qu'on a 5 brins sur la toile. Pour ce faire, vous devez d'abord faire le glitch du scalpel environ 5 fois sur un seul brin pendant que vous attendez que votre scalpel inutilisable le soit à nouveau à cause de la phase précédente. Soyez sûr d'arrêter de faire le glitch avant que votre scalpel soit de nouveau opérationnel ou sinon votre scalpel sera inutilisable encore plus longtemps. Une fois qu'il est opérationnel, coupez une superposition de deux brins comme précédemment en effectuant le scalpel glitch normalement. Ensuite, pendant que vous attendez le retour de votre scalpel, refaites le scalpel glitch 5 fois encore attention sur le **même brin**, vous ne devez pas l'avoir coupé. Arrêtez vous avant que votre scalpel soit rétabli puis refaites le coup de scalpel sur une superposition de deux brins ainsi que le scalpel glitch comme normalement, enfin, 5 coup de scalpel glitch devraient venir à bout du brin restant. <br>
+**Ne faites ceci que dans l'opération 5-9, et quand vous avez une toile de 5 brins.** <br>
 
-This strat can also be extended to the final web phase on 5-9, however instead you must execute the glitch on a set of overlapping strands. To do this, while waiting waiting for your scalpel to regenerate, execute the glitch 5 to 7 times on an overlap. Do not cut this overlap when your scalpel then returns, instead cut a different overlap. Repeat the glitch again 5 to 7 times on the same overlap you had started with, and cut the other overlap. You should now have the last overlap you have been executing the glitch on. With a few more taps, this should break and you skip the extra strand that Savato would normally make, and the Shield Phase begins. <br>
+Cette stratégie peut également être étentue à la phase finale lors de l'opération 5-9, cependant au lieu de le faire sur un brin seul vous devez le faire sur la superposition de deux brins. Pour le faire, pendant que vous attendez le retour votre scalpel, exécutez le glitch 5 à 7 fois sur une superposition de deux brins. Ne coupez pas ces brins quand votre scalpel est de retour, au lieu de ça coupez une autre superposition. Répétez encore le glitch 5 à 7 fois sur les mêmes brins avec lesquels vous avez commencé, et coupez les autres superpositions de brins. Il devrait maintenant vous rester les brins sur lesquels vous avez effectué le glitch. Avec quelques coups en plus, ils devraient casser et ceci va passer le dernier brin que Savato est censé faire apparaître, et la phase du bouclier commence. <br>
 
-If you do not go for Web Skip, or dealing with Savato in 6-8, after dealing with the first two overlaps, as you get to the final overlap, Savato will create an extra strand as well as spawn some immatures. While you wait for your scalpel to return, be sure to laser all these immatures before you then cut the final strand. This way you don't have to watch all the immatures run into Savato which can take a painfully long time. <br>
+Si vous n'utilisez pas le Web Skip, ou si vous combattez Savato dans l'opération 6-8 après avoir traité les deux premières superpositions de brins, quand vous arrivez à la dernière superposition, Savato va créer un nouveau brin ainsi que faire apparaître quelques larves. Pendant que vous attendez que votre laser soit opérationnel, soyez sûr d'utiliser le laser sur toutes les larves avant de couper le dernier brain. En faisant comme ça vous n'avez pas à regarder toutes les larves courir vers Savato ce qui peut prendre un long moment douleureux pour votre temps. <br>
 
-## Shield Phase
+## Phases de bouclier
 
-This is where the bulk of Savato's fight takes place, and where you'll now juggle the patient's vitals, your laser, and Savato's own damage to indicate your approach. <br>
-A few ground rules to help you better approach this fight: <br>
-1. Savato has HP stages that upon getting an OK for burning through its shield, it will progress through.
-2. Any time Savato attacks, it will regain back to its current HP stage, regardless of how much you had burned through.
-3. Five immatures are needed to merge to create a larger immature that cuts vitals down.
-4. Cuts that create immatures deal 5 damage, and triple cuts do 10 damage.
+C'est la partie où se déroule la plupart du combat contre Savato, et où vous allez jongler entre les signes vitaux du patient, votre laser, et les dégâts de Savato pour choisir votre approche. <br>
+Quelques règles de base pour vous aider à mieux appréhender ce combat : <br>
+1. Savato a des phases de points de vie qui vont progresser à chaque fois que vous aller obtenir un OK en brûlant son bouclier.
+2. A chaque fois que Savato attaque, il va revenir à son niveau de vie maximum de la phase en cours, peut importe combien de temps vous l'avez déjà brûlé.
+3. Il y a besoin de 5 larves pour créer une plus grosse larve bleue qui va faire grandement faire chuter les signes vitaux.
+4. Les lacérations qui font apparaître des larves causent 5 dégâts, et les triples lacérations 10 dégâts.
 
-If you are lasering Savato, and it attacks, you'll feel the vibration stop on the Wiimote (if you do not have rumble enabled, turn this on). Savato will also do a "stomp" with a web appearing under it that can be helpful to spot when it is going create a laceration and immatures will pour out. Savato does not do an animation when it is about to create a triple cut, so feel for the rumble stopping or the cuts appearing. Note that Savato *jumps* when creating these cuts. <br>
+Si vous êtes en train de brûler Savato au laser et qu'il attaque, vous sentirez les vibrations de votre manette s'arrêter (si elles ne sont pas activées, faites le). Savato va également faire un "piétinnement" avec une toile qui apparaît en dessous, ce qui peut être utile pour repérer quand il va faire une lacération et que des laves sortent. Savato ne fait pas d'animation quand il s'apprête à faire une triple lacération, donc sentez les vibrations s'arrêter pour l'anticiper ou constatez l'apparition des lacérations. Notez que Savato *"saute"* quand il effectue ces lacérations. <br>
 ![](../img/savato_immatureAttack.gif) <br>
 
-## Savato's Health Stages
+## Stade des points de vie de Savato
 
-As mentioned above, Savato has four HP stages that it goes through sequentially per each area of the heart. Each stage of health requires a set amount of laser to get through. <br>
+Comme mentionné plus tôt, Savato a quatre stades de points de vie différents qu'il parcourt séquentiellement à chaque zone du coeur. Chaque stade de vie requiert une certaine valeur de brûlure au laser pour passer à l'étape suivante. <br>
 
 **5-9**:	49% → 37% → 25% → 11% <br>
 **6-8**:	59% → 47% → 32% → 14% <br>
 
-Note that these percentages are for Normal. Hard generally requires slightly more laser for the first and second phase of shield. <br>
-Quark has a [video](https://youtu.be/q4jRUa-p01A) that shows this rather nicely with usage of the Dolphin Memory Engine. <br>
-Once Savato's health has dropped a stage, it will always create a cut that forms immatures. <br>
+Notez que ces pourcentages sont pour la difficulté Normale. En difficile cela requiert généralement légèrement plus de brûlure au laser pour la première et seconde phase du bouclier. <br>
+Quark a fait une [vidéo](https://youtu.be/q4jRUa-p01A) (anglais) qui montre plutôt bien ceci en utilisant le gestionnaire mémoire de Dolpin. <br>
+Une fois que la vie de Savato est descendu d'une étape, il va toujours faire une lacération qui fera apparaître des larves. <br>
 
-## Laser Durability
+## Durabilité du laser
 
-Given the laser only has so much durability, dealing damage to Savato between attacks is a juggling act as not to run out of laser right before you can move onto the next HP stage. <br>
-Firstly, the UI indicates how much laser you have left: <br>
+Étant donné que le laser n'a qu'une durabilité limitée, infliger des dégâts à Savato pendant les attaques peut s'avérer compliqué pour ne pas tomber à court d'utilisation de laser juste avant pouvoir accéder à la prochaine étape de ses points de vie. <br>
+Tout d'abord, l'interface vous indique combien de durabilité il reste à votre laser : <br>
 
-White:		100-51% <br>
-Yellow: 	50-26% <br>
-Red: 		25-1% <br>
+Blanc:		100-51% <br>
+Jaune: 	50-26% <br>
+Rouge: 		25-1% <br>
 
-Secondly, the laser takes time to restore. This might seem obvious, but it can be faster to burn the laser out and wait for it to recover. There is an exact cut-off for when this is better, which is 41.632%. This however is near impossible to tell, so the rule of thumb I follow is: *If you have use the laser until it shows as yellow on the UI, burn it out*. <br>
-This isn't exact of course, but it gives you a general idea of when this gives more benefit than drawback. <br>
-However, there times where it doesn't matter if you wait for the laser to regenerate. Notably if you have a lot of clean-up or the vitals are too low to proceed with lasering Savato. It is down to you when you should choose to do this, and with experience you'll be able to better determine when you should focus on vitals vs attacking Savato. <br>
+Deuxièmement, le laser prend du temps à être réparé. Cela peut sembler évident, mais il peut être plus rapide de brûler complètement le laser et d'attendre qu'il soit réparé. Il y a une limite exacte pour savoir quand c'est mieux de le faire, qui est 41.632%. Cependant c'est presque impossible de pouvoir dire quand ça arrive, donc la règle générale que je suis c'est : *Si vous avez utilisé le laser jusqu'à le voir en jaune sur l'inferface, utilisez le complètement*. <br>
+Ce n'est pas exact évidemment, mais ça vous donne un ordre d'idée de quand c'est plus bénéfique que d'attendre qu'il se régénère. <br>
+Cependant, il y a des moment où peut importe si vous devez attendre que votre laser se régénère. Notemment si vous devez faire pas mal de nettoyage de lacérations ou si les signes vitaux sont trop bas pour continuer de brûler Savato au laser. C'est à vous de voir quand vous devez le faire, et avec l'expérience vous serez capable de déterminer quand est-ce qu'on préfère traiter les blessures ou attaquer Savato. <br>
 
-## Immatures
+## Larves
 
-These pesky mini spiders don't cause much of a problem however it is important not to let too many roam on the heart as you tackle Savato's shield. Only **five** are needed before a blue Savato can be formed which drops the vitals significantly and reduces the max vitals as well. However, unlike in 5-8, you have a safety period where no merges can take place.
-When Savato creates a cut with immatures spawning, they will form in the centre of the cut. The best way to tackle this is to laser in the centre of the cut before the immatures get further out. <br>
+Ces petites araignées ne causent pas réellement de problème en soi, cependant c'est important de ne pas en laisse trop se balader sur le coeur pendant que vous vous attaquez au bouclier de Savato. Seulement **cinq** sont nécessaire pour qu'un Savato bleu puisse se former ce qui fait significativement les signes vitaux et réduit le nombre maxium de signes vitaux aussi. Cependant, contrairement à l'opération 5-8, vous avez une période sûr où aucune fusion ne peut avoir lieu.
+Quand Savato fait des lacérations avec des larves qui apparaissent, elles vont se former au milieu ce celle-ci. Le meilleur moyen de s'en occuper est de préparer son laser au centre de la lacération afin de toutes les brûler en même temps avant qu'elles n'aillent plus loin. <br>
 
-## Final Stand
+## Phase finale
 
-Savato's final phase is after you have broken through Savato's shield for the fourth time and you must inject the black serum to neuralise it. This requires a **full dose** of the serum, so if you miss you need to re-draw the very tiny amount you lose.
-Note that before you inject the first dose of the serum the vitals **must** be above 30. If they aren't, the vitals will reach 0 and the patient will die. However, there is as very risky strat you can use if the vitals are just below 30 - after the first injection, there is a window where Savato centres itself on the organ and HT activates as the vitals drop. You can inject stabiliser in this window to prevent the patient from dying. This is a very tight window and requires you to be quick, and I wouldn't normally recommend it unless you know you can boost the vitals up in time.
+La phase finale de Savato est lorsque vous avez percé son bouclier pour la quatrième fois et que vous devez injecter le sérum noir afin de le neutraliser. Ceci requiert **une dose complète** du sérum, donc si vous manquez, vous pouvez faire une croix sur le très petit temps que vous venez de perdre.
+Notez qu'avant que vous injectiez la première dose du sérum les signes vitaux **doivent** être au dessus de 30. S'ils ne le sont pas, les signes vitaux vont atteindre 0 et le patient va mourir. Cependant, il existe une stratégie extrêmement risqué que vous pouvez utiliser si les signes vitaux du patient sous juste en dessous de la barre des 30 - après la première injection, il y a une fenêtre de temps où Savato se place au centre de l'organ et où la main curatrice s'active pendant que les signes vitaux chutent. Vous pouvez injecter du stabilisateur pendant ce temps pour empêcher le patient de mourir. C'est une fenêtre de tir très courte qui requiert une certaine rapidité, et je ne vous recommanderais pas cette pratique à moins que vous sachiez que vous êtes capable de remonter les signes vitaux du patient à temps.
 
-## Healing Touch & Lag
+## Main curatrice & Lag
 
-If you've ever defeated Savato before, you will probably notice that when you activate Derek's healing touch, there's an awful lot of lag. This is caused by the blood that comes from the cuts when they are made, and that the op is on the heart. <br>
-Given we time our speedruns in real time rather than game-time, getting a lag-less Savato can save you a fair amount of time as the injection and final animation is considerably faster. <br>
-To get "Lagless Savato" you must activate the Healing Touch when no new cuts are being made and the blood has faded. <br>
-Drawing a star within this window however can be incredibly difficult, and so instead you should **buffer** the star. To do this, draw the star as normal, however do not let go of A or B on the final line, and instead hold your cursor at the end point. You can in theory do this indefinitely. Let go of A or B to then pop the star once the blood has dissipated: <br>
+Si vous avez déjà battu Savato avant, vous aurez probablement remarqué que quand vous activez la main curatrice de Derek, il y a une certaine quantité de lag. Ceci est dû au sang qui sort des plaies lorsqu'elles sont créées et du fait que l'opération soit directement sur le coeur. <br>
+Sachant qu'on base nos temps de speedrun sur le temps réel plutôt que le temps du jeu, avoir moins de lag sur Savato peut permettre de gagner un certain temps car l'injection et l'animation finale seront beaucoup plus rapide. <br>
+Pour avoir un Savato "sans lag" vous devez utiliser la main curatrice quand aucune nouvelle lacération n'est en train d'être faite et que le sang des lacérations précédentes s'est dissipé. <br>
+Dessiner une étoile dans cette fenêtre de temps peut cependant se révéler incroyablement difficile, c'est pour quoi à la place vous devez **"buffer"** votre étoile. Pour faire cette manipulation, dessinez votre étoile normalement cependant ne relâchez pas A ou B lors de la ligne finale, au lieu de ça maintenez votre curseur au point final de votre étoile. Vous pouvez théoriquement faire ça à l'infini. Relâchez A ou B pour utiliser la main curatrice une fois que le sang s'est dissipé : <br>
 ![](../img/savato_bufferHT.gif) <br>
-Note in the example above, I have drawn the serum before popping Derek's HT. This can be done in 5-8 where Savato doesn't attack for a longer period. This period you would be waiting anyway if applying the buffered HT technique, so drawing the serum here saves a small amount of time. Unfortunately Savato in 6-8 is too aggressive to do this. <br>
+Note sur l'exemple ci-dessus, j'ai pris le sérum avant d'activer la main curatrice de Derek. Cela peut être également fait dans l'opération 5-8 où Savato n'attaque pas pendant une grande période. Dans tout les cas cette période serait sinon de l'attente en attendant d'utiliser la main curatrice avec la technique du buffer, donc prendre le sérum avant ici fait gagner un peu de temps. Malheureusement dans l'opération 6-8 Savato est trop agressif pour faire ça. <br>
 
 ---
 

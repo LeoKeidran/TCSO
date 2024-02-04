@@ -5,33 +5,33 @@
 
 ***Ces conseils s'appliquent à toutes les opérations qui impliquent Paraskevi.*** <br>
 
-This strain tests your precision more than anything, and your sutures. Given how time sensitive Paraskevi is, it can be nerve racking especially while on the heart, but there's a few tricks we can employ to make this easier. With practice, Paraskevi can become incredibly cathartic. <br>
+Cette souche teste plus votre précision et vos sutures qu'autre chose. Compte tenu du temps que Paraskevi impacte sur la run, les nerfs peuvent en prendre un coup, surtout lorsque vous opérez dans le coeur, mais il y a quelques techniques qu'on peut employer pour le rendre plus facile. Avec de l'entraînement, Paraskevi peut devenir incroyablement cathartique. <br>
 
-## Lasering & Priority
+## Laser & Priorité
 
-As difficult as it sounds, it's important not to chase Paraskevi's tail when attempting to stun it, as you're highly likely to burn the laser out. And if you can't stun it as it is about to burrow you're either having to move organs, or you've lost the patient if it is on the heart. Tap the laser to reduce how much laser you use and aim for where the tail connects to the rest of the worm, so your laser strikes it more consistently. <br>
+Aussi difficile que cela puisse paraître, c'est important de ne pas chasser la queue du Paraskevi en la suivant pendant que vous essayez de le paralyser car il y a une forte probabilité pour que le laser devienne inutilisable. Et si vous n'êtes pas capable de l'arrêter quand il tente de s'infiltrer vous devrez opérer dans le nouvel organe par la suite, ou vous perdez tout simplement le patient si le Paraskevi était déjà dans le coeur. Préférez des petits tapotement de laser (tapping) afin de réduire l'utilisation du laser et visez là où la queue et le corps du Paraskevi se rejoignent, votre laser réussira plus souvent ainsi. <br>
 
-The goal here is to extract one half of Paraskevi, while leaving the other half completely alone. The rule of thumb is: "Attempt to extract the smallest possible segment. If it does not exist, split the smallest, until you can." This means you focus purely on the smallest segments, and ignore the largest segments unless it is about to burrow. <br>
-If however you are on the final few segments, it can be beneficial (if the vitals are high enough) to split multiple worms at once. This is best for the segments with two cuts left, where in cutting it will create two worms that must be cut one last time before extraction. This leaves you with four segments to remove which, depending on your skill, should be relatively easy to handle. <br>
+Le but ici est d'extraire la moitié du Paraskevi, tandis qu'on laisse l'autre moitié tranquille. La règle générale est la suivante: "Essayez d'extraire le plus petit segment. S'il n'existe pas, coupez en deux le plus petit, jusqu'à ce que vous puissiez." cela veut dire que vous devez purement vous concentrer sur les plus petits segments, et ignorer les autres segments à moins qu'ils ne soient sur le point de s'infiltrer. <br>
+Cependant si vous êtes sur les derniers petits segments, il peut être bénéfique (si les signes vitaux sont suffisamment élevés) d'en couper plusieurs d'un coup. C'est mieux pour les segments qui manquent deux coups avant l'extraction, où le couper va créer deux vers qui doivent eux-même être couper en deux avant de pouvoir être extraits. Cela vous laisse avec quatre segments à retirer ce qui, dépendemment de vos compétences, devrait être relativement simple à gérer. <br>
 
-Paraskevi itself on average begins burying after 6-7 seconds once split. Once the tail shakes, you have three seconds to stun it before it buries. Keep in mind that it can be longer or shorter than this before it shakes its tail. Thurler has made [a video](https://youtu.be/ZxlZJ0aO-Wg) covering this in closer detail. <br>
-With this in mind, you do not have to constantly tend to the largest segment, and only need to periodically laser it to ensure it does not bury.  <br>
-When Paraskevi is about to burrow, Angie or Victor will warn you with a voiceline, alerting you that you have three seconds until it burrows. <br>
+Paraskevi commence généralement à s'enfoncer au bout de 6-7 seconds une fois coupé. Une fois que la queue bouge, vous avez trois secondes avant qu'il ne s'infiltre. Gardez à l'esprit que ça peut être plus ou moins long avant que la queue bouge. Thurler a fait [une vidéo](https://youtu.be/ZxlZJ0aO-Wg) (anglais) qui explique tout cela plus en détail. <br>
+Avec ça en tête, vous n'avez pas besoin de paralyser le plus grand segment en permanance, mais seulement beesoin d'utiliser le laser périodiquement pour être sûr qu'il ne vous échappe pas.  <br>
+Quand Paraskevi est sur le point de s'enfoncer, Angie ou Victor va vous alerter avec une phrase audio qui vous prévient que vous avez trois secondes avant qu'il n'arrive à s'infiltrer. <br>
 
-## Vitals
+## Signes vitaux
 
-Every time you split a segment of Paraskevi, the cuts will deal 5 damage to the vitals on Normal. <br>
-The killer however is leaving these cuts alone. It's best practice to suture these cuts as soon as possible, to prevent the vitals from ticking down further. <br>
+A chaque fois que vous allez couper Paraskevi, les coupures vont infliger 5 dégâts aux signes vitaux en Normale. <br>
+Cependant ce qui va le tuer c'est de laisser ces lacérations sans vous en préoccuper. C'est une bonne pratique de suturer ces plaies aussi tôt que possible, pour empêcher les signes vitaux de tomber par la suite. <br>
 
-At the beginning of the op, there are a few cuts that need suturing before Paraskevi itself emerges. You should be able to boost the vitals to max before Paraskevi emerges. <br>
+Au début de l'opération, il y a quelques lacérations qui doivent être suturées avant que Paraskevi émerge. Vous devriez augmenter les points vitaux du patient au maximum avant que Paraskevi apparaisse. <br>
 
-If performed optimally, you will likely end the operation with very few vitals. <br>
+Si faite de manière optimisée, vous terminerez sûrement l'opération avec très peu de signes vitaux. <br>
 
-## With Kyriaki
+## Avec Kyriaki
 
-When accompanied by Kyriaki in 6-4, it can be difficult to know what to prioritise. However, as Paraskevi is purely based on timers, it is critical to extract it as soon as possible. <br>
-At the start when the single segments appear, you should suture any cuts that are made and extract them right away. <br>
-On the final wave when the Mature Kyriaki spawns, the Paraskevi should still be your priority once the cuts have been sutured, given that 6-4 is performed on the heart and even one burrow results in the operation failing. <br>
+Quand accompagné par Kyriaki comme dans l'opération 6-4, il peut être difficile de savoir quoi prioriser. Cependant, comme Paraskevi est purement basé sur le temps, il est essentiel de l'extraire le plus rapidement possible. <br>
+Au début quand les petits segments seuls apparaissent, vous devez suturer les coupures qui sont faites et extraire les segments directement après. <br>
+Quand la vague finale avec le Kyriaki mature apparaît, le Paraskevi doit rester votre priorité une fois que les lacérations ont été traitées, basé sur le fait que l'opération 6-4 est pratiquée sur le coeur et que même un seul Paraskevi qui s'échappe résulte en la perte immédiate de l'opération. <br>
 
 ---
 

@@ -5,40 +5,39 @@
 
 ***Ces conseils s'appliquent à toutes les opérations qui impliquent Tetarti.*** <br>
 
-It's like Atlus wanted to include Simons says! This GUILT strain is generally straight forward, but requires a stable hand, more so than the other strains. <br>
+C'est comme si Atlus voulais inclure un Jaques a dit! Cette souche de la TAC est généralement assez directe, mais requiert une main stable, plus que toutes les autres souches. <br>
 
-## Diverticula
+## Diverticulites
 
-The abscesses that appear on the start of nearly all Tetarti operations, except for 6-3, must be removed prior to the real fight starting with Tetarti itself. You should always inject the **yellow** serum first into the yellow diverticulum, followed by the **green** serum and finally **purple**.
- <br>
- This order is the fastest, and ensures that the individual polyps do not expand beyond a singular stage. <br>
- The process for extraction should be as follows: Inject approximately 1/4 of a dose, excise. Repeat until all three are dealt with. Then drop onto the tray and patch up. You should tap the gel on each membranes to be optimal. <br>
- ![](../img/tetarti_diverticula.gif) <br>
-In the event you hit the wrong cell with an injection, be ready to inject and extract the abscess before it gets too large. It is better to pass up a cycle by extracting, than to watch the patient's vitals plummet. You should treat them in the same way as above in the pre-wave. <br>
+Les abscès qui apparaissent au début de presque toutes les opérations contenant Tetarti, sauf pour la 6-3, doiven't être retirées avant le réel combat contre Tetarti en lui-même. Vous devez toujours injecter le sérum **jaune** en premier dans le diverticule jaune, suivi du sérum **vert** and finalement le **violet**. <br>
+Cet ordre est le plus rapide et assure que chaque polype ne dépasse pas le premier stade. <br>
+Le processus d'extraction doit être le suivant : Injectez approximativement 1/4 de dose, excisez. Répétez jusqu'à ce que vous en ayez fini avec les trois. Déposez les ensuite sur le plateau puis mettez un bandage dessus. Vous devez tapoter le gel antibiotique sur chaque membrane pour que ça soit optimal. <br>
+![](../img/tetarti_diverticula.gif) <br>
+Au cas où vous injecteriez dans la mauvase cellule avec une injection, soyez prêt à injecter le serum dans l'asbcès et à l'extraire avant qu'il ne devienne trop large. C'est mieux de louper un cycle en faisant une extraction propre plutôt que de voir les signes vitaux du patient chuter drastiquement. Vous devez les traiter de la même manière que ci-dessus comme dans la pré-vague au début de l'opération. <br>
  
 ## Injections
 
-The injections themselves aren't too tricky if you've got a stable hand. That being said, Tetarti's hitbox is notoriously small and deceiving. You should aim to inject towards the centre of their head, where the arms meet the body. <br>
-The dose is incredibly small, at most you only need to draw a quarter of a syringe. <br>
-While not 100% optimal, to ensure you inject enough per Tetarti cell, you should hold A until the injection automatically stopped. The more you do this, the more you can gauage when this finishes. <br>
-Before a wave starts, draw one colour. Always do this before the wave, that way you aren't wasting time. Aim to draw the same colour consistently so that you can go for the same colour as soon as possible without giving it any thought. <br>
+Les injections en soi ne sont pas très dures si vous avez une main stable. Cela dit, la hitbox de Tetarti est ridiculeusement petite et trompeuse. Vous devez viser l'injection vers le centre de leur tête, là où les bras rencontrent le corps. <br>
+La dose nécessaire est cependant incroyablement faible, vous n'aurez besoin que d'environ un quart de seringue. <br>
+Tandis que 100% n'est pas optimal, vous devez être sûr d'injecter suffisemment dans la cellule de Tetarti, vous devez maintenir le bouton A jusqu'à ce que l'injection soit automatiquement stoppée. Plus vous faites ça, plus vous êtes à même d'estimer quand ça se termine. <br>
+Avant qu'une vague ne commence, prenez une couleur avec votre seringue. Faites toujours ceci avant l'apparition de la vague comme ça vous ne perdez pas de temps. Prenez toujours la même couleur comme ça vous allez sur la couleur dès que possible sans même avoir besoin d'y penser. <br>
 
-Tetarti will often get very close to one another, making it awkward to inject the right colour, even with a steady hand. To combat this, you should wait a few moments for them to spread out. Tetarti generally will never overlap directly onto one another, and will bounce off at the same angle they meet at, often doing a 180, like they would at the organ barrier. <br>
+Les cellules de Tetarti vont souvent se retrouver proches les une des autres, rendant le fait d'injecter la bonne coleur difficile, même avec le coup de main. Pour lutter contre ça, vous devez attendre quelques instants qu'ils se séparent. Une cellule Tetarti ne va généralement jamais se supperposer directement dans une autre, et elles vont rebondir à partir de l'angle où elles se sont rencontrées, souvent en faisant un demi-tour, comme elles le feraient si c'était la paroi d'un organe. <br>
 
-## Vitals
+## Signes vitaux
 
-Each miss you get drops the vitals down by 5, which isn't much but when done multiple times as you desperately try to inject each cell, it can result in you scrambling to boost the vitals up. <br>
-Between each wave, you have space to inject at least one full dose of stabiliser without causing extra use on the syringe. This is far more important when dealing with 5-4 and 6-3. <br>
-Aim to practice Tetarti to the point where you are missing less than four times per individual cell. <br>
+A chaque raté que vous faites les signes vitaux chuteront de 5 points, ce qui n'est pas beaucoup mais fait plusieurs fois pendant que vous essayez désespérément d'injecter le sérum dans chaque cellule, ça peut résulter à votre besoin de faire remonter les signes vitaux. <br>
+Entre chaque vague, vous avez assez de temps pour injecter une dose complète de stabilisateur sans causer de perte de temps d'utilisation de la seringue. C'est bien plus important lorsque vous faites les opérations 5-4 et 6-3. <br>
+Essayez de vous entraîner sur Tetarti jusqu'au point où vous ratez moins de quatre fois pour chaque cellule. <br>
 
 ## Mutation
 
-In 6-3, Tetarti is a tad harder as now you have no way to read the colours until the vapours come from each individual type. <br>
-Like in the other operations, you should have a dose already in the syringe before each wave starts, however when the colours are not displayed you will have to wait until it appears. <br>
-This in itself isn't too difficult, and if anything the gas makes it easier to identify colours on the fly. <br>
-Note however the that vitals drop much quicker, so be sure to boost between waves. <br>
-Derek will make a hum in Japanese, and a groan in English when you are half way through the Tetarti phases. <br>
-Overlap is a large concern in this operation, so be sure to wait longer than normal for Tetarti to spread out a little if it is too hard to tell which one is emitting which coloured gas. Note if you take too long however, you will need to reinject the dose. <br>
+Dans l'opération 6-3, Tetarti est un peu plus dur qu'avant car maintenant vous ne pouvez plus voir les couleurs avant qu'ils relâchent des vapeurs toxiques de couleur selon leur type. <br>
+Comme dans les autres opérations, vous devez déjà avoir une dose dans votre seringue avant que chaque vague ne commence, cependant, parce que les couleurs ne sont pas affichées directement vous devrez attendre un peu. <br>
+En soi ce n'est pas difficile, et le gaz facilite l'identification de chaque cellule Tetarti assez facilement. <br>
+Notez cependant que les signes vitaux chutent plus rapidement, soyez donc sûr de les remonter entre chaque vague. <br>
+Derek va faire un "hmm" dans la version japonaise, et un gémissement en anglais lorsque vous serez rendu à la moitié des phases de Tetarti. <br>
+La superposition des cellules est un problème dans cette opération, soyez sûr d'attendre plus longtemps que la normal pour que les Tetarti s'écartent un peu s'il est trop difficile de déterminer lequel rejette quel gaz. Notez cependant que si vous attendez trop longtemps vous devrez réinjecter les doses. <br>
 
 ---
 
