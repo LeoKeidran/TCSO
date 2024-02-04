@@ -5,35 +5,35 @@
 
 ***Ces conseils s'appliquent à toutes les opérations qui impliquent Triti.*** <br>
 
-Triti is one of the most trivial GUILT strains in a speedrun setting, however casually it's a nightmare, hence the name. <br>
+Triti est l'une des souches de TAC les plus triviales en conditions de speedrun, cependant lorsque vous faites le jeu normalement en casual c'est un véritable cauchemar, comme son nom l'indique. <br>
 
-## Rules of Expansion
+## Règles d'expension
 
-The main driving factor to dealing with Triti quickly is to understand how to control it. Despite the fact we use the Healing Touch, it's incredibly helpful to know how to extract Triti without the healing touch in the event you need to. <br>
-Triti has two rules that it abides by that apply any time you remove a membrane. Note that the thorns themselves are what handle where Triti can expand. So by removing all the thorns, Triti will not spread if a membrane is removed: <br>
-1. If there is an edge where Triti can expand between two adjacent thorns, and a membrane is removed, it will expand into this space.
-2. If a singular thorn is left when a membrane is extracted, it will create three membranes on the edges of the final membrane.
-Note that Triti, like the other GUILT strains is confined by the organ. A safety strat is to back Triti into a corner if you are unable to extract it all. <br>
-These rules are checked every time a membrane is removed, so if you extract a membrane while there is space for it to expand, and you remove another, it will spread further than expected. <br>
+L'un des facteurs les plus importants pour traiter Triti est de rapidement comprendre comment le contrôler. Malgré que nous utilisons la main curatrice, c'est très important de savoir comment traiter Triti sans l'utiliser au cas où vous en auriez besoin. <br>
+Triti respecte deux règles principales qui s'appliquent dès lorsqu'une membrane est retirée. Notez que les épines de Triti conditionnent là où il peut s'expendre. Donc en retirant toutes les épines Triti ne se propagera pas si une membrane est retirée: <br>
+1. S'il y a une bordure entre deux épines où Triti peut s'expendre et qu'une membrane est retirée, il va s'étendre à cet endroit.
+2. Si une épine est laissée toute seule quand une membrane est retirée, cela va créer 3 nouvelles membranes aux bords de la dernière membrane en question.
+Notez que Triti, comme les autres souches de TAC est confiné par l'organe. Une technique sûre est donc d'acculer Triti dans un coin si vous n'êtes pas en mesure de l'extraire. <br>
+Ces règles sont vérifiées chaque fois qu'une membrane est retirée, donc si vous extrayez une membrane alors qu'il y a de l'espace pour qu'elle se propage et que vous en enlevez une autre, elle s'étendra plus loin que prévu. <br>
 ![](../img/triti_rules.png) <br>
 
-## Blue Segments
+## Triangles bleus
 
-The blue segments aren't a huge concern for the speedrun setting, mostly as you will often extract the entirety of Triti before it can cause enough vital damage to kill the patient. <br>
-In the event you get a blue segment, don't panic and continue to work methodically through extraction, the vitals may drop but don't consider boosting vitals unless the patient is about to die. That being said, if you are reaching a point where the patient is about to die, you may want to work on your accuracy. <br>
+Les triangles (ou segments) bleus ne sont pas un soucis à prendre en compte en speedrun, surtout parce que vous allez extraire Triti avant même qu'il cause assez de dégats pour tuer le patient. <br>
+Dans le cas où vous avez un triangle bleu, ne paniquez pas et continuez simplement l'extraction normalement, les signes vitaux peuvent chuter mais ne considérez pas de les remonter à moins que le patient soit sur le point de mourir. Cela dit, si vous atteignez un point où le patient est sur le point de mourir vous devriez travailler votre précision. <br>
 
-## Gas Clouds
+## Gaz toxiques
 
-If you opt to do Triti without the Healing Touch, or you are playing on Hard, you'll observe gas clouds when extracting thorns. This can throw off your pace when you are on a roll of removing thorns, however the clouds themselves have quite a bit of leeway and they don't need to be drained immediately. That being said, you shouldn't wait too long, no longer than 5 seconds. <br>
-Generally using the Healing Touch should mean you won't have to deal with any gas clouds when extracting Triti, as it requires some triangles to be removed, as well as which operation you are on. On 3-10, you are very unlikely to get any gas clouds, if any. <br>
+Si vous optez pour faire Triti sans la main curatrice, ou si vous jouez en Difficile, vous constaterez des gaz toxiques qui appraîteront lorsque vous retirerez des épines. Cela peut vous ralentir votre enchaînement pour enlever les épines, cependant vous avez une certaine marge de manoeuvree avec ces gaz, ils n'ont pas besoin d'être drainés immédiatement. Cela dit vous ne devez pas attendre trop longtemps, pas plus de 5 secondes. <br>
+Généralement utiliser la main curatrice implique que vous n'avez à gérer aucun gaz toxique pendant l'extraction de Triti car cela nécessite l'extraction de quelques triangles, et que cela dépend aussi de l'opération que vous faites. Dans l'opération 3-10, vous êtes très peu susceptible d'avoir des gaz toxiques, si ce n'est aucun. <br>
 
 ## Extraction
 
-The fastest method to removing Triti is to pull out all the thorns, followed by all the membranes. This is to be done throughout the entire organ, not just one segment. Despite the fact they may look separated, Triti acts as one entity. This ensures that all the membranes are neutralised and that it won't expand with no thorns available. <br>
-Using the healing touch can give you more time to do this, and is highly recommended. <br>
-Given the thorns must be extracted upward by about 5 pixels, extracting in clockwise circular motions can make this easier, by lifting the thorn up, then round in an arc to the tray, and repeating. The below is slightly more emphasized than the path you need to take, but this shows the premise. This ensures you can pick-up each thorn easily. <br>
+La méthode la plus rapide pour extraire Triti est d'enlever toutes les épines suivies de toutes les membranes. Ceci doit être réalisé sur tout l'organe pas seulement un segment car malgré que les segments semblent séparés, Triti agit comme une seule entité. Cette méthode assure que toutes les membranes soient retirées et que Triti ne peut plus s'expendre car il n'a plus d'épines. <br>
+Utiliser la main curatrice vous donne plus de temps pour le faire, il est hautement conseillé de l'utiliser. <br>
+En prenant en compte que les épines doivent être retirées vers le haut d'environ 5 pixels, les retirer en faisant des mouvement dans le sens des aiguilles d'une montre rend cela plus facile, en levant l'épine vers le haut, et ensuite en faisant un rond jusqu'au plateau, et le répeter. L'image qui suit met légèrement plus en valeur cette méthode que ce que vous devez réellement faire, mais cela vous montre l'idée générale. Cela assure que vous pouvez prendre les épines facilement. <br>
 ![](../img/triti_movement.png) <br>
-After extracting all the thorns, you can use a standard left-to-right motion for extracting the membranes. <br>
+Après avoir enlevé toutes les épines, vous pouvez utiliser enlever les membranes de gauche à droite comme habituellement. <br>
 
 ---
 
