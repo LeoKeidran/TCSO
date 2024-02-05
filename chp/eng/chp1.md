@@ -9,7 +9,7 @@ Be mindful of the small little delays whenever Mary talks. This is notably right
 You should suture the left cut, and then the right for less cursor movement. <br>
 ![](../img/1-1_suture.png) <br>
 After you've pulled out the shards, tap the gel on each of the small cuts. <br>
-For the incision, you will need to ensure all of it is covered with hel berfore you can select the scalpel. <br>
+For the incision, you will need to ensure all of it is covered with gel before you can select the scalpel. <br>
 Because the three cuts from the shards in the arm are quite close, you can slather gel over these. <br>
 Don't forget to gel before the bandage.
   
@@ -51,7 +51,7 @@ If the vitals are ticking down too quickly, it suggests you need to work on your
 The faster you deal with these tumours, the safer you'll be on the inflammation stage, and therefore no vital boosts. <br>
 Once you have tapped the gel on the membranes, begin dealing with the inflammations. You should take a full draw of the syringe and inject it all before going back for more, even if you don't fully treat the inflammation. Some inflammation hitboxes overlap, and you can use this to treat multiple at once. <br>
 ![](../img/1-6_inflammations.png) <br>
-These inflammations circled have clear overlapping hitboxes, and recommended groupings. However, this can be applies to others too and isn't exclusively where they overlap. <br>
+These inflammations circled have clear overlapping hitboxes, and recommended groupings. However, this can be applied to others too and isn't exclusively where they overlap. <br>
 ***We complete the operation in this way, as the membranes take time to disppear. This way there is no time wasted waiting for the membranes to fade.*** <br>
 Once Angie requests for you to ultrasound, you will need to use it 10 times to progress, ideally selecting this before Angie prompts you to.
 	

@@ -11,7 +11,7 @@ Given that this episode is five back to back Kyriaki patients, this will serious
 If you have a healthy pace, you should only need to boost vitals on patient two, and five. <br>
 Each patient ramps up in difficulty (approximately). Patient one has one starting immature, followed by another two in the next wave, and finally the mature in the final wave. Patient two will have two immatures in the first wave, followed by three in the next, and finally the mature. Patient three will start with two immatures, then two in the next wave, and the mature will be accompanied by an immature as well. Patient four will be the exact same. Patient five will start with three immatures, then an additional two, as well as an extra immature with the mature. <br>
 Do not bother boosting vitals between patient as they reset to max (99). <br>
-If you kill a patient, you will have to re-do the entire operation so it is better to be slightly slow and safe than rush and kill the patient. <br>
+If you kill a patient, you will have to re-do the entire operation, so it is better to be slightly slow and safe than rush and kill the patient. <br>
 
 ## 5-3*
 

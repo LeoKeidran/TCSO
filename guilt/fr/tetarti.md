@@ -13,7 +13,7 @@ Les abscès qui apparaissent au début de presque toutes les opérations contena
 Cet ordre est le plus rapide et assure que chaque polype ne dépasse pas le premier stade. <br>
 Le processus d'extraction doit être le suivant : Injectez approximativement 1/4 de dose, excisez. Répétez jusqu'à ce que vous en ayez fini avec les trois. Déposez les ensuite sur le plateau puis mettez un bandage dessus. Vous devez tapoter le gel antibiotique sur chaque membrane pour que ça soit optimal. <br>
 ![](../img/tetarti_diverticula.gif) <br>
-Au cas où vous injecteriez dans la mauvase cellule avec une injection, soyez prêt à injecter le serum dans l'asbcès et à l'extraire avant qu'il ne devienne trop large. C'est mieux de louper un cycle en faisant une extraction propre plutôt que de voir les signes vitaux du patient chuter drastiquement. Vous devez les traiter de la même manière que ci-dessus comme dans la pré-vague au début de l'opération. <br>
+Au cas où vous faites une injection dans la mauvaise cellule, soyez prêt à injecter le serum dans l'asbcès et à l'extraire avant qu'il ne devienne trop large. C'est mieux de louper un cycle en faisant une extraction propre plutôt que de voir les signes vitaux du patient chuter drastiquement. Vous devez les traiter de la même manière que ci-dessus comme dans la pré-vague au début de l'opération. <br>
  
 ## Injections
 

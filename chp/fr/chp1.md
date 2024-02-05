@@ -5,64 +5,64 @@
 	
 ## 1-1*
 
-Be mindful of the small little delays whenever Mary talks. This is notably right at the start when she asks you to suture, and again when she instructs you to use the forceps. <br>
-You should suture the left cut, and then the right for less cursor movement. <br>
+Prenez en compte les petits délais à chaque fois que Marie parle. C'est notamment vrai au début quand elle vous demande de suturer, et encore une fois quand elle vous demande d'utiliser le forceps. <br>
+Vous devez suturer la plaie de gauche, puis celle de droite pour moins de mouvement de curseur. <br>
 ![](../img/1-1_suture.png) <br>
-After you've pulled out the shards, tap the gel on each of the small cuts. <br>
-For the incision, you will need to ensure all of it is covered with hel berfore you can select the scalpel. <br>
-Because the three cuts from the shards in the arm are quite close, you can slather gel over these. <br>
-Don't forget to gel before the bandage.
+Après avoir retiré les éclats de verre, appliquez du gel en tapotant une fois sur chacune des petites plaies. <br>
+Pour l'incision, vous devez vous assurer que tout est recouvert de gel avant de pouvoir sélectionner le scalpel. <br>
+Parce que les trois coupures dans le bras sont assez proche, vous pouvez appliquer le gel en le faisant glisser sur ces plaies plutôt qu'en effectuant des tapotis. <br>
+N'oubliez pas de mettre du gel avant d'appliquer le bandage.
   
 ## 1-2*
 
-When you go to inject the stabiliser, make sure to take a full draw. Mary will know if you skimp out! <br>
-Just like 1-1, there is a small delay for each step as Mary talks. <br>
-The Tumour is always located in the same spot (as below). Be sure to ultrasound exactly where it is, so you don't get additional dialogue from Mary. <br>
+Quand vous allez injecter du stabilisateur, soyez sûr de prendre une seringue entière. Marie saura remarquer si ce n'est pas le cas ! <br>
+Tout comme l'opération 1-1, il y a un court délai à chaque fois que Marie parle. <br>
+La tumeur est toujours située au même endroit (voir en dessous). Soyez sûr d'utiliser l'ultrason exactement où elle est comme ça vous évitez un dialogue supplémentaire de Marie. <br>
 ![](../img/1-2_tumour.png) <br>
-Cutting the tumour can be done in any straight line across the location, it doesn't necessarily have to be vertically. In this instance, doing a small vertical slash is the fastest way to expose it. <br>
-After the membrane, just tap the gel directly in the centre of the membrane. You should do this for all membranes going forward. <br>
-Don't forget you can just bandage without putting any gel down.
+Couper la tumeur peut être fait de n'importe quelle ligne droite, ça n'a pas nécessairement besoin d'être fait verticlament. Dans le cas présent, faire une petite coupe verticale est le moyen le plus rapide. <br>
+Après la membrane, juste tapotez une fois le gel au milieu de la membrane. Vous devrez faire ceci pour toutes les membranes suivantes dans le jeu. <br>
+N'oubliez pas que vous pouvez juste appliquer le bandage sans mettre de gel au préalable à partir de maintenant.
 	
 ## 1-3*
 
-The inflammations only need about 1/4 of the syringe, just where the plunger meets the edge of the vial (seen below). <br>
+Les inflammations n'ont seulement besoin que d'un quart de seringue, juste là où le piston de la seringue atteint le bord du flacon (voir en dessous). <br>
 ![](../img/1-3_syringe.png) <br>
-The tumours are always in the same spots (seen below) and you don't need to ultrasound them first. <br>
-When you are exposing these tumours, you can either cut each one individually, or do a sort of V-Shape to get them in one sweeping motion. <br>
+Les tumeurs sont toujours placées au même endroit (voir si dessous) et vous n'avez pas besoin d'utiliser l'ultrason avant de les inciser. <br>
+Quand vous exposez les tumeur au scalpel, vous pouvez le faire de manière individuelle pour chaque tumeur ou faire une sorte de forme de V pour toutes les exposer en un mouvement. <br>
 ![](../img/1-3_tumours.png) <br>
-After draining each tumour, cut in the opposite order you drained them in (aka, drain 1>2>3 then cut 3>2>1). If you are not quite fast enough to do this, cut them in the same order you drained them. <br>
-Again, for the gel, tapping on the centre of each membrane is best.
+Après avoir drainé chaque tumeur, coupez-les dans l'ordre opposé à celui que vous les avez drainé (à savoir, drainez 1>2>3 puis coupez 3>2>1). Si vous n'êtes pas assez rapide pour le faire, coupez-les simplement dans l'ordre dans lequel vous les avez drainé. <br>
+Encore une fois, pour le gel, mettre un tapotement au milieu de la membrane est la meilleure solution.
 
 ## 1-5
 
-This is one of the first operations you might want to consider opening the patient without gel. However, this is considered pretty tricky and only saves you around 0.4s. Give it a try in practice, but don't feel obligated to do this strat. <br>
-When lasering the polyps, aim to laser in between each cluster (seen below). <br>
-The fourth polyp will always cause a blood pool, Angie will point this out, so be ready for dialogue and required tool switch. <br>
+C'est l'une des premières opérations où vous pouvez considérer le fait d'ouvrir le patient sans appliquer de gel au préalable. Cependant, c'est considéré comme assez compliqué et sauve seulement au tour de 0.4 secondes sur votre temps. Tentez de le faire en entraînement mais ne vous sentez pas obliger de faire cette stratégie. <br>
+Quand vous utilisez le laser pour détruire les polypes, essayez de viser entre les regroupement pour tous les détruires d'un coup (voir en dessous). <br>
+Le quatrième polype causera toujours apparition d'une hémorragie, Angie vous fera la remarque, donc soyez prêt pour le dialogue et le changement d'outil nécessaire. <br>
 ![](../img/1-5_polyps.png) <br>
-After lasering and gelling over all the holes, pre-emptively move the view to where the next cluster will spawn. This will always alternate from upper to lower area, with a total of 5 areas which ends at the top of the throat.
+Après avoir détruit tout les polypes et appliqué du gel pour chaque trou, anticipez et bougez votre caméra où le prochain regroupement de polype va apparaître. Ils vont apparaître alternativement en haut et en bas, avec un total de 5 zones qui finissent par le haut de la gorge.
 	
 ## 1-6
 
-For this operation you'll need to be careful of the vitals. Below are suggestions based on my own experience, but I highly recommend seeing what works for you in terms of consistency. <br>
-You first want to deal with the tumours. They are always in the same location, and should not use the ultrasound to reveal them first. You can do two diagonal slashes to reveal them in two pairs. <br>
+Pour cette opération vous devez faire attention aux signes vitaux. Vous trouverez ci-dessous des expériences basées sur mon expérience, mais je vous recommande fortement de voir ce qui convient le mieux pour vous en terme de réussite générale. <br>
+Vous voulez d'abord traiter les tumeurs. Elles sont toujours situées au même endroit et n'utilisez pas l'ultrason pour les exposer. Vous pouvez faire deux coupures diagonales pour les révéler par paire. <br>
 ![](../img/1-6_tumours.png) <br>
-Just like in 1-3, you'll want to drain these, and then cut them out in reverse order (1>2>3>4 followed by 4>3>2>1). This requires you to be precise and quick, and if you are unsure, aim to tackle two at a time. <br>
-If the vitals are ticking down too quickly, it suggests you need to work on your precision with the scalpel. <br>
-The faster you deal with these tumours, the safer you'll be on the inflammation stage, and therefore no vital boosts. <br>
-Once you have tapped the gel on the membranes, begin dealing with the inflammations. You should take a full draw of the syringe and inject it all before going back for more, even if you don't fully treat the inflammation. Some inflammation hitboxes overlap, and you can use this to treat multiple at once. <br>
+Tout comme dans l'opération 1-3, vous voulez les drainer, puis les couper dans l'ordre inverse (1>2>3>4 suivi de 4>3>2>1). Le faire requiert précision et rapidité, et si vous n'êtes pas sûr, visez d'en faire deux à la fois. <br>
+Si les signes vitaux chutent trop rapidement, cela veut dire que vous devez travailler votre précision avec le scalpel. <br>
+Le plus rapidement vous traitez ces tumeurs, le plus sécurisé vous serez pendant l'étape des inflammations, et donc pas besoin de remonter les signes vitaux. <br>
+Une fois que vous avez appliquer le gel sur les membranes, commencez à traiter les inflammations. Vous devez prendre une dose entière de seringue et l'appliquer avant de revenir pour en prendre plus, même si vous ne finissez pas de traiter l'inflammation. Quelques inflamations ont des hitbox qui se superposent, et vous pouvez utiliser ça à votre avantage pour en traiter plusieurs à la fois. <br>
 ![](../img/1-6_inflammations.png) <br>
-These inflammations circled have clear overlapping hitboxes, and recommended groupings. However, this can be applies to others too and isn't exclusively where they overlap. <br>
-***We complete the operation in this way, as the membranes take time to disppear. This way there is no time wasted waiting for the membranes to fade.*** <br>
-Once Angie requests for you to ultrasound, you will need to use it 10 times to progress, ideally selecting this before Angie prompts you to.
+Les inflammations entourées ont des hitbox clairement superposées, et sont recommandées pour être traitées en même temps. Cependant, ceci peut également être appliqué aux autres et ce n'est pas exclusivement là où elles se chevauchent. <br>
+***On complète cette opération dans ce sens car les membranes prennent du temps à disparaitre. De cette manière on n'attend pas que les membranes ne disparaissent.*** <br>
+Une fois qu'Angie vous demande de vérifier avec l'ultrason, vous aurez besoin de l'utiliser 10 fois pour continuer, idéalement, sélectionnez l'outil avant qu'Angie ne vous le demande.
 	
 ## 1-8
 
-The operation starts with a defib, so pull back your Wiimote premptively so you can push forward once it hits. When you hit B, you can pull back your Wiimote back to your resting position. <br>
-Once inside the patient, aim to pull the glass out all in one go. The vitals don't drop quick enough for you need to use the gel immediately. Below is a suggested path, but use whatever works for you. <br>
+L'opération commence avec un défibrilateur, donc reculez votre manette avant pour que vous puissiez l'avancer une fois que vous avez besoin. Quand vous pressez B, vous pouvez vous remettre dans votre position de confort. <br>
+Une fois à l'intérieur du patient, essayez de retirer tout les bouts de verre d'un coup. Les signes vitaux ne baissent pas assez vite pour que vous ayez besoin d'utiliser le gel directement. Ci-dessous se trouve une manière possible de le faire, mais faites ce qui marche pour vous. <br>
 ![](../img/1-8_glass.png) <br>
-After pulling out the shards, tap the gel on each cut as it is faster than slathering it all over. <br>
-Once this is done, you have a brief moment before another defib hits, so pull back on your Wiimote. Don't worry if the vitals are trickling down, as they will get lowered to 10 for the defib and recovered after. <br>
-There will be an extra shard of glass after the defib, followed by the Auto-HT and cut to suture. This is a bit larger than most, so you may need extra lines to complete the suture.
+Après avoir retirer les morceaux de verre, tapotez chaque plaie de gel une fois car c'est plus rapide que de le répendre partout. <br>
+Une fois ceci fait, vous avez un bref moment avant qu'un autre défibrilateur apparaisse, donc reculez votre manette. Ne vous en faites pas si les signes vitaux baissent car ils seront ramenés à 10 le temps du défibrilateur puis remontés après. <br>
+Après le défibrilateur il va y avoir un autre tesson de verre, suivi de la main curatrice activée automatiquement et une plaie à suturer. Elle est une peu plus large que les autres donc vous aurez peut-être besoin de lignes supplémentaires pour finir la suture.
 
 ---
 
