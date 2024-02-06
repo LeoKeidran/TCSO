@@ -48,7 +48,7 @@ I highly recommend completing the puzzle the same way every time for consistency
 
 You'll need to inject the nanomachines three times before the core is exposed. Each injection must be a full dose. <br>
 Like in the research stage in 4-6, you can inject this three times if you are quick enough.<br>
-You do not need to laser the tiny tumours but doing so can stop the vitals frop dropping too much. <br>
+You do not need to laser the tiny tumours but doing so can stop the vitals from dropping too much. <br>
 On the second phase of injections, be careful as the core might move after your first injection. <br>
 After the final injection start cutting in the below area to cut out the core, as it will always be here. <br>
 ![](../img/4-8_extract.png)

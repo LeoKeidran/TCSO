@@ -5,77 +5,77 @@
 
 ## 2-1
 
-This operation is perfect for improving your tool switching due to the pacing needed to drain the thrombi as fast as possible. <br>
-When the op starts, don't forget the initial zoom, once you open the patient. If you mash too fast however, you can accidentally zoom out, so be mindful to only hit A once. <br>
-You should start with dealing the thrombus at the very top left corner, working down the organ in a counter-clockwise fashion. <br>
+C'est l'opération parfaite pour améliorer votre changement d'outil dû au rythme que vous devez suivre pour drainer les thromboses le plus rapidement possible. <br>
+Quand l'opération commence, n'oubliez pas le zoom initial une fois que vous ouvrez le patient. Si vous faites du mashing trop rapidement pour zoomer, vous pouvez cependant accidentellement dézoomer, donc faites attention à ne presser A qu'une fois. <br>
+Vous devez commencer par traiter le caillot qui se trouve tout en haut à gauche, puis descendre au fur et à mesure. <br>
 ![](../img/2-1_initial.png) <br>
-If you are especially fast, you might have to skip the second thrombi initially as it has a slightly delayed spawn. This means you must go for the third instead. <br>
-If done at the right pace, you can ultrasound, cut and drain the last two thrombi together. <br>
+Si vous êtes assez rapide, vous devrez peut-être passer le deuxième caillot car il met un peu plus de temps à apparaitre. Ce qui veut dire qu'au lieu de ça vous devez aller sur le troisième à la place. <br>
+Si vous faites la stratégie avec le bon rythme, vous pouvez utiliser l'ultrason, inciser et drainer les deux derniers caillots en même temps. <br>
 ![](../img/2-1_group.png) <br>
-After dealing with the initial five thrombi, wait for each thrombi to overlap in the outer vein, ultrasounding them as they travel so that you can pinch them in this location (shown below). After the Auto-HT activates, cut the group, drain them and tap the gel. <br>
+Après vous être occupé des 5 premiers caillots, attendez que les caillots suivants se superposent dans la veine principale, utilisez l'ultrason pendant qu'ils s'y dirigent pour pouvoir les pincer pour les bloquer une fois qu'ils sont en position (voir ci-dessous). Après que la main curatrice ne se soit activé automatiquement, coupez le groupe, drainez les et appliquez **1** coup de gel antibiotique. <br>
 ![](../img/2-1_ht.png) <br>
-There are an additional two thrombi to worry about, the very top left and the second to last branch at the bottom right. <br>
-Deal with these as you did in the first wave. <br>
+Il y a également deux caillots supplémentaires à s'occuper, tout en haut à gauche et dans la dernière branche tout en bas à droite. <br>
+Traitez les comme lors de la première vague. <br>
 
 ## 2-3*
 
-Since this operation is nothing but drawing stars, the one important thing to note is that Derek will cut you off every time you complete a star. Hold ( C ) or ( Z ) so that any time the star icon appears you know you can draw a star. <br>
-The rest of the below covers how to improve your stars, not just for this operation but for any HT you need to activate in the rest of the run, making the critical for Savato. <br>
-First, the game calculates stars in the same way as it calculates the sutures, meaning it looks for an angle change that is significant enough to create a line. <br>
-The game can sometimes accept 6 line stars, however this is often because of an extra line that is insignificant enough, often at the tail of the star. <br>
-You can still pop HT if you have drawn all 5 lines, but the fifth does not appear. Note that the line was drawn and upon letting go, the star activates: <br>
+Car cette opération ne consiste à rien à part dessiner des étoiles, une chose importante à prendre en compte est que Derek vous coupera à chaque fois que vous ferez une étoile. Maintenez ( C ) ou ( Z ) comme ça dès que l'icône d'étoile apparaît vous savez que vous pouvez en faire une. <br>
+Le reste de ce que je vais dire va vous aider à améliorer vos étoiles, pas seulement pour cette opération mais pour chaque main curatrice que vous devrez activer pour le reste de la run, ce qui est critique pour Savato. <br>
+Tout d'abord, le jeu calcule les étoiles dessinées de la même manière qu'il le fait pour les sutures, ce qui va dire qu'il va vérifier un changement d'angle suffisant pour créer une ligne. <br>
+Le jeu peut parfois accepter des étoiles à 6 lignes, cependant c'est souvent parce que la dernière ligne est trop insignifiante et est faite à la fin de l'étoile. <br>
+Vous pouvez utiliser la main curatrice lorsque vous avez dessiné les 5 lignes même si la cinquième n'apparaît pas. Notez que la ligne a été dessinée et qu'une fois relâchée, l'étoile s'active: <br>
 ![](../img/2-3_wonky.png) <br>
-Regardless of where you start your star (top, bottom left, on the right, on the left) you should aim to keep it clean, even if it is a bit slanted or not completely perfect. The game doesn't expect you to be perfect, and in fact having some overlap of the start and end points can mean your star counts. <br>
-From experience, **wide** stars work better than narrow ones. Not entirely sure why, but if the star is wider you're more likely for it to work. <br>
-Play around with the starting position, for example, I prefer starting my stars at the top, as it is in the active area of the operation where you will be working, and you end in the same position. This way I also create more consistent stars. <br>
+Peut importe où vous commencez votre étoile (en haut, en bas à gauche, à droite, à gauche) vous devez essayer qu'elle soit proprement faite, même si elle est un peu penchée ou pas complètement parfaite. Le jeu n'attends pas de vous une étoile parfaite, et en pratique avoir quelques superpositions de points au début et à la fin des points de l'étoile peut faire en sorte qu'elle compte. <br>
+Par expérience, les étoiles **larges** marchent mieux que celles serrées. Pas exactement sûr du pourquoi mais si l'étoile est plus large vous aurez plus de chance qu'elle marche. <br>
+Jouez autour des positions pour commencer vos étoiles, par exemple, je préfère commencer mes étoiles en haut parce que c'est dans la zone active de l'opération, là où vous aller traiter le patient et que vous finissez à la même position qu'au départ. De cette manière, je réussi également mes étoiles plus régulièrement. <br>
 
 ## 2-4
 
-Just like in 1-5, you should premptively zoom the camera into each area before the aneurysms spawn in. They will always be in same location every time you complete the operation. <br>
-For the first aneurysm, you only need around half of an injection to sedate it. Don't forget about draining the blood after you extract it onto the tray. <br>
-After the first aneurysm, move the camera to the left and boost the vitals up to max. Drawing the serum here will be a waste as Angie will cut you off. The next aneurysm only needs about a quarter to a half of a syringe. <br>
-Premptively move the camera over to the right, and take a full draw of the serum. Here you will need to inject one and then the other. If you are fast enough you should be able to sedate both, and then excise them before it wears off. To do this, ensure you cut them in the same order you injected them. <br>
-You won't be able to draw the sedative before the next wave, so move the camera quickly over to the left. You'll need a full draw, and a little more, so inject into both and top off the other one with some extra to sedate it. Like the previous wave, if you are quick enough you can cut both out before the sedative wears off. <br>
-Move the camera to the right once more before the final wave, and ensure that the vitals are no lower than 50. Do not activate the healing touch. The intention here is to allow for two of them to burst. Treat the two centre aneurysms, as the other two burst the quickest. <br>
+Comme dans l'opération 1-5, vous devez anticiper pour zoomer la caméra à chaque fois au bon endroit avant que les anévrismes apparaissent. Ils apparaitront toujours au même endroit à chaque fois que vous ferez cette opération. <br>
+Pour le premier anévrisme, vous aurez seulement besoin d'une demi injection pour appliquer le sédatif. N'oubliez pas de drainer le sang après l'avoir extrait sur le plateau. <br>
+Après le premier anévrisme, bougez la caméra vers la gauche et montez les signes vitaux du patient au maxium. Prendre du sérum à ce moment est inutile car Angie va vous interrompre. Le prochain anévrisme requiert seulement environ entre un quart et une demi dose de sédadif. <br>
+Anticipez, déplacez la caméra vers la droite et prenez une dose entière de sérum. Vous devrez ici injecter à l'un puis l'autre, si vous êtes assez rapide vous devriez pouvoir appliquer le sédatif sur les deux et ensuite les extraire avant la fin du produit. Pour faire ceci, soyez sûr de les couper dans le même ordre que pour l'injection. <br>
+Vous ne pourrez pas prendre de sédatif avant la prochaine vague donc préférez bouger rapidement la caméra vers la gauche. Vous aurez besoin d'une dose complète et même un peu plus, donc injectez dans les deux et complétez l'autre avec un peu plus de sérum pour l'endormir. Comme la vague précédente, si vous êtes assez rapide vous pouvez inciser les deux avant que l'effet du sédatif se dissipe. <br>
+Encore une fois bougez votre caméra vers la droite avant la vague finale, et assurez vous que les signes vitaux ne soient pas en dessous de 50. **N'activez pas la main curatrice**. Le but ici est dans laisser deux exploser. Traiter les deux anévrismes du centre, pendant que les deux autres éclatent. <br>
 ![](../img/2-4_final.png) <br>
-If you are especially fast, you can extract the aneurysms before the others burst, otherwise just wait a moment as they burst as not to get a miss and potentially kill the patient. From there, collectively drain and deal with each aneurysm as usual. <br>
+Si vous êtes vraiment très rapide, vous pouvez extraire les anévrismes avant que les deux autres n'explosent, autrement attendez un peu qu'elles explosent et ne faites pas de raté au risque de potentiellement tuer le patient. A partir de là, drainer collectivement puis traiter chaque anévrisme comme normalement. <br>
 
 ## 2-6*
 
-This operation is incredibly short, but there are still small optimisations you can employ. <br>
-First of all, drain the blood of one of the cuts. Angie will briefly cut you off once you do. Then close the cut and suture it. <br>
-Next drain the other cut, close it and suture. Angie will again make you wait a moment before you can suture the smaller cuts so keep this in mind. <br>
+Cette opération est incroyablement rapide mais il y a toujours quelques petites optimisations qu'on peut effectuer. <br>
+Tout d'abord, drainez le sang d'une des lacérations. Angie va rapidement vous interrompre une fois ceci fait. Ensuite fermez la lacération et suturez la. <br>
+Puis drainez l'autre lacération, puis fermez et suturez la. Angie va encore une fois vous faire attendre un moment avant que vous puissiez suturer les plus petites coupures gardez ça à l'esprit. <br>
 ![](../img/2-6_cuts.png) <br>
-It doesn't matter which cut you start with first, but ensure you finish one cut before moving onto the other as collectively treating them is slower due to the cursor distance and tool switching efficiency. <br>
+La lacération par laquelle vous commencez n'a pas d'importance, mais assurez vous de finir d'en traiter une avant de commencer à traiter l'autre car les traiter en même temps est plus lent à cause de la distance parcourue par le curseur au total et de l'optimisation du changement d'outil. <br>
 
 ## 2-9
 
-Like in 2-6, drain each cut, then close them and suture, as this is faster than collectively dealing with the large cuts. <br>
+Tout comme l'opération 2-6, drainez chaque grosse lacération, puis fermez la et suturez la, car c'est plus rapide que de les traiter en même temps. <br>
 
-***Please follow the Kyriaki Advice found under [TAC - Kyriaki](../../guilt/fr/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Kyriaki qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-After you suture the newly created cut, immediately ultrasound towards the centre of the operation area as this is often where the first immature will be. <br>
-Note that this isn't always necessarily the case, and you should follow the general Kyriaki advice, but more often than not, the immature will be in this area. <br>
+Après avoir suturé les nouvelles lacérations, utilisez instantanément l'ultrason au centre de la zone d'opération, car c'est souvent l'endroit où le premier Kyriaki immature se trouvera. <br>
+Notez que ce n'est pas nécessairement le cas, et que vous devez suivre les conseils généraux applicables au Kyriaki, mais il sera plus fréquemment dans cette zone que l'inverse. <br>
 ![](../img/2-9_immature.png) <br>
-Once you kill the first immature and suture, you have a big enough window boost the vitals with two full injections. This is close, and it is better to go for one and a half if the first cut appears. <br>
-There is a cut that will spawn but trying to suture it before Greg cuts you off is tight. Aim to squeeze this suture in after the vital boost. <br>
-The next cut always spawns right next to the tool wheel. Don't forget there are two immatures here. <br>
-When you reach the final wave, you should aim for 40+ vitals. <br>
-You've got to wait a little after Kyriaki dies, so you can always boost vitals here to ensure they are at safe levels. <br>
-Greg and Angie will cut you off when you go for the final suture of the patient. <br>
+Une fois que vous avez tué le premier immature et que vous avez suturé les plaies, vous avez une marge de manoeuvre assez grande pour injecter deux seringues complètes de stabilisateur. C'est assez court et c'est mieux d'opter pour une et demi si la première lacération apparaît. <br>
+Une lacération qui va apparaître, mais essayer de la suturer avant que Greg ne vous interrompe est assez tendu. Essayez de vous occuper de cette suture après le boost de signe vitaux. <br>
+Les prochaines coupures vont toujours apparaître près de la roue d'outils, n'oubliez pas qu'il y a désormais deux immatures. <br>
+Quand vous atteignez la vague finale, vous devez essayer d'avoir 40+ de signes vitaux. <br>
+Vous devez attendre un petit peu après la mort du Kyriaki, donc vous pouvez toujours remonter les signes vitaux à ce moment pour être sûr qu'ils ne sont pas trop bas. <br>
+Greg et Angie vont vous interrompre lorsque vous atteignez la dernière suture du patient. <br>
 
 ## 2-11
 
-The line on the heart doesn't need to be gelled, but it makes it a hell of a lot easier. <br>
-The defib will start the frame you select the scalpel. <br>
-During the wind up for fibrillation, pull your Wiimote back, so that you can immediately push this forward for the defib. <br>
+La ligne d'incision sur le cœur n'a pas nécessairement besoin d'avoir du gel antibiotique appliqué dessus mais ça rend la chose beaucoup plus facile. <br>
+Le défibrilateur va commencer au moment précis où vous prenez le scalpel. <br>
+Pendant le temps qui arrive jusqu'à la fibrillation, reculez votre manette comme ça vous pouvez directement la remettre en avant pour le défibrilateur. <br>
 
-*With HT*: you should pop HT right after the transition finishes to open the heart, this way there is no lag on the blood particles. You can then drain, cut, and place the valve, and suture. You will need to guess where these go as the blood will cover it up. <br>
-If you are still getting a defib, you may need to activate the Healing Touch before opening the heart up. <br>
+*Avec la main curatrice* : vous devez utiliser la main curatrice aussitôt que l'animation pour ouvrir le coeur soit finie, de cette manière il n'y a pas de lag à cause des particules de sang. Vous pouvez ensuite drainer, couper, placer la valve et finalement suturer. <br>
+Si vous avez tout de même un défibrilateur, vous devrez peut-être activer la main curatrice avant même d'ouvrir le coeur. <br>
 
-*Without HT*: it's possible to just go really fast here, but it is very tight and considered an advanced strat. Same as usual, just that you can only really afford one or (maybe) two mistakes. <br>
+*Sans la main curatrice* : il est ici possible d'aller très rapidement, mais c'est vraiment très tendu et doit être considéré comme une stratégie avancée. Comme normalement, juste que vous ne pouvez vous permettre qu'une ou (peut-être) deux erreurs. <br>
 ![](../img/2-11_suture.png) <br>
-Given the sutures are wacky for the valve. You should do vertical sutures (going up and down) across the valve. For the heart itself, just suture across the entire opening. <br>
+Prenant en compte que la suture de la valve est un peu particulière et trompeuse. Vous devez effectuer des sutures verticales (qui vont de haut en bas) à travers toute la valve. Pour le coeur, faites juste une grande suture à travers toute l'ouverture. <br>
 
 ---
 

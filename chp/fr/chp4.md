@@ -5,70 +5,70 @@
 
 ## 4-2*
 
-The main thing to note for this operation is not to ESS after any of the operations. If you do for the first two, you'll lose your progress. Each patient is a minute or so long. <br>
-The locations for this operation are fixed, and should be completed in this order: <br>
+La chose principale à se rappeler ici est de ne surtout pas utiliser l'ESS à aucune des opérations. Si vous le faites pour les deux premières, vous allez perdre votre progression. Chaque patient dure environ une minute. <br>
+Les endroits pour cette opération sont fixes et doivent être effectués dans cet ordre : <br>
 ![](../img/4-2_locations.png) <br>
-The first two operations will be nearly identical, only the third operation is slightly different. <br>
-Each injection requires only a quarter of the vial, it's a very small amount. <br>
-The ideal routing to get the sample from each one as quickly as possible is to first inject after opening the patient, then wait for it to dive. Ultrasound and cut it out as soon as possible, then draw and inject the serum, and while you wait for it to dive again, gel the cut. <br>
-If you are feeling daring and extra fast with your tool switching, you can save a small amount of time by placing the sample on the tray, switching to the scalpel, cutting, and then draining before the delay kicks in. This is super tight on timing, and realistically you should just aim to drain some of the sample before this kicks in. <br>
-On the final sample you retrieve, it'll go bonkers with gas. You can just wait this out. To be extra optimised, you can try to gel it to make it slow down close to the tray, but this can cause lag. <br>
+Les deux premières opérations seront assez semblable, seulement la troisième est légèrement différente. <br>
+Chaque injection requiert un quart de flacon ce qui est très peu. <br>
+La manière idéale pour avoir chaque échantillon aussi rapidement que possible est d'abord d'injecter après avoir ouvert le patient, ensuite attendre qu'il plonge se cacher. Utiliser l'ultrason et le couper aussi rapidement que possible, puis prendre et injecter le the sérum. Pendant que vous attendez qu'il replonge, appliquez du gel sur la coupure. <br>
+Si vous vous sentez audacieux et extrêmement rapide avec votre changement d'outil, vous pouvez gagner un peu de temps en plaçant l'échantillon sur le plateau, prenant le scalpel, couper, puis drainer avant que vous ne soyez interrompu. C'est vraiment très serré comme timing, et vous devriez réalistiquement juste drainer un peu d'échantillon avant qu'il intervienne. <br>
+Sur le dernier échantillon que vous prélevez, ils vont devenir dingues en relâchant du gaz toxique. Vous pouvez juste attendre ça. Pour être complètement optimisé, vous pouvez essayer le gel pour qu'ils ralentissent proches du plateau, cependant cela peut causer du lag. <br>
 
 ## 4-4
 
-While in the pre-op dialogue you can take this time to stretch. <br>
+Pendant le dialogue de pré-opération, vous pouvez prendre le temps de vous étirer. <br>
 
-***Please follow the Tetarti Advice found under [TAC - Tetarti](../../guilt/fr/tetarti.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Tetarti qui peuvent être trouvés ici [TAC - Tetarti](../../guilt/fr/tetarti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-The diverticula are always located in the same spots, and same colours every time. <br>
-You should inject all three of these before cutting and extracting, as this reduces the amount of serum you need to inject overall. Start with yellow as this is the first to get bigger, then green, then purple. <br>
+Les diverticulites se situent toujours au même endroit, et de la même couleur à chaque fois. <br>
+Vous devez injecter du sérum dans les trois avant de les inciser et les extraire puisque cela réduit la quantité totale de sérum que vous devez utiliser. Commencez par le jaune car c'est celui qui grossit le plus rapidement, puis le vert, et finalement le violet. <br>
 ![](../img/4-4_diverticula.png) <br>
-Like tumours, you should tap the gel on each of the membranes. <br>
-Once all gelled up, you can inject a full draw of stabiliser while waiting, Angie will cut you off anyway. <br>
+Comme pour les tumeurs, vous devez tapoter le gel antibiotique sur chacune des membranes. <br>
+Une fois ceci fait, vous pouvez injecter une seringue remplie de stabilisateur, Angie vous interrompra dans tous les cas. <br>
 
 ## 4-6*
 
-You'll need to do each step from Victor in a set order: Scalpel, Laser, Gel, Syringe. <br>
-On the injection stage, you will need a full draw of each type. On the first phase, the injection order goes from right to left. <br>
-If done optimally, you can get three injections on each phase before the core moves. If you aim to go for the third injection, be sure to time it so that you do not get a miss as the core moves. <br>
-On the second phase, if the vitals are too low you will need to boost them to 75. <br>
-The order is: Blue, then Yellow. Purple, then White.  <br>
-It is possible to inject just before the core moves, however this runs the risk of Victor yelling at you and having to redo the injection. <br>
-After the second white injection, select the scalpel and begin to cut in the below area as the core will always be here: <br>
+Vous devrez suivre chaque instruction de Victor dans un ordre précis : Scalpel, Laser, Gel, Seringue. <br>
+Pendant la phase des injections, vous aurez besoin d'une seringue de chaque type. Pour la première étape, l'ordre d'injection va de droite à gauche. <br>
+Si vous le faites de la bonne manière, vous pouvez réussir trois injections à chaque étape avant que le noyau bouge. Si vous voulez faire une troisième injection, assurez-vous d'avoir le temps pour éviter d'avoir un raté à cause du fait que le noyau se déplace. <br>
+Pour la deuxième étape, si les signes vitaux sont trop bas, vous devrez les remonter jusqu'à 75. <br>
+L'ordre est : Bleu, puis Jaune. Violet, et enfin Blanc. <br>
+C'est possible de faire une injection juste avant que le noyau ne se déplace, c'est cependant prendre le rique que que Victor vous hurle dessus et de devoir recommencer l'injection. <br>
+Après la deuxième injection de sérum blanc, sélectionnez le scalpel et commencez à couper dans la zone de dessous puisque le noyau apparaitra toujours ici : <br>
 ![](../img/4-6_extract.png) <br>
-Be ready to drop the core onto the tray after cutting it out. <br>
+Soyez prêts à déposer le noyau sur le plateau après l'avoir découpé. <br>
 
 ## 4-7*
 
-The puzzle has a set solution, found below. <br>
-I highly recommend completing the puzzle the same way every time for consistency, so that you can eventually do it without reference. <br>
+Le puzzle a une solution définie que vous pouvez retrouver ci-dessous. <br>
+Je vous recommande de le faire de la même manière à chaque fois pour vous habituer, pour que vous puissiez le refaire sans la solution. <br>
 ![](../img/4-7_puzzle.png) <br>
 
 ## 4-8*
 
-You'll need to inject the nanomachines three times before the core is exposed. Each injection must be a full dose. <br>
-Like in the research stage in 4-6, you can inject this three times if you are quick enough.<br>
-You do not need to laser the tiny tumours but doing so can stop the vitals frop dropping too much. <br>
-On the second phase of injections, be careful as the core might move after your first injection. <br>
-After the final injection start cutting in the below area to cut out the core, as it will always be here. <br>
+Vous allez avoir besoin d'injecter les nanomachines trois fois avant que le noyau soit exposé. Chaque injection doit être une dose complète. <br>
+Comme dans l'opération de recherche scientifique 4-6, vous pouvez effectuer trois injections d'une traite si vous êtes assez rapide.<br>
+Vous n'avez pas besoin d'utiliser le laser sur les petites tumeurs mais le faire peut empêcher les signes vitaux de trop baisser. <br>
+Dans la seconde phase d'injection, faites attention puisque le noyau peut bouger après votre première injection. <br>
+Après la dernière injection, commencez à couper start la zone du dessous pour découper le noyau car il apparaitra toujours ici. <br>
 ![](../img/4-8_extract.png)
 
 ## 4-9
 
-The puzzle solutions are always the same, see below for each. <br>
+Les solutions des puzzles sont toujours les mêmes, voir ci-dessous. <br>
 ![](../img/4-9_puzzleOne.png) <br>
-You should aim to complete the puzzle in the same order for consistency, that way you can also complete it without using a reference. <br>
+Je vous recommande encore une fois de les faire de la même manière à chaque fois pour vous habituer, pour que vous puissiez les refaire sans la solution. <br>
 ![](../img/4-9_puzzleTwo.png) <br>
 
 ## 4-10
 
-Unlike in the research stages, to expose the core, only two injections of the nanomachines is needed. <br>
+Contrairement aux opérations de recherche scientifique, il suffit de deux injections de nanomachines pour exposer le noyau. <br>
 
-***Please follow the Pempti Advice found under [TAC - Pempti](../../guilt/fr/pempti.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Pempti qui peuvent être trouvés ici [TAC - Pempti](../../guilt/fr/pempti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-Even if you play optimally, it's very *very* tricky to laser all the mini blue cores on the initial showcasing wave, so aim to laser the four cores working from the left, leaving the furthest on the right. This is due to Victor and Angie talking. <br>
+Même si vous jouez de manière optimale, c'est vraiment *très* compliqué de réussir à détruire tous les petits noyaux bleus lors de la vague initiale, essayez de détruire les quatres premiers noyaux en partant de la gauche, laissant celui le plus à droite. Ceci est dû à Victor et Angie qui parlent. <br>
 ![](../img/4-10_blueCores.png) <br>
-At the end of this operation, be wary of Victor talking meaning you have to delay your suture by about half a second. <br>
+A la fin de cette opération, méfiez-vous de Victor qui parle ce qui implique que vous devez attendre une demi-seconde supplémentaire avant de pouvoir faire votre suture. <br>
 
 ---
 

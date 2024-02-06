@@ -26,7 +26,7 @@ Chaque chapitre possède sa propre page, comme pour chaque souche de TAC pour ai
 ## Conseil général
 
 Du fait que TCSO repose sur des compétances motrices concernant le contrôle de la manette Wii et de la Nunchuck, la plupart du temps pour devenir meilleur il va falloir beaucoup d'entraînement pour se sentir plus confortable sur les contrôles. Second Opinion a la sensibilité du curseur la plus basse en sachant qu'il a été fait avec un ratio de résolution 4:3. Ce qui veut dire que si vous venez d'autres jeu de la série Trauma Center le curseur peut vous sembler un peu lent. Avec de l'entraînement ça ne devrait pas être un problème.
-Tout comme apprendre un instrument, commencer lentement et s'assurer que vous avez les bons mouvement est aussi important que votre connaissance du jeu. Si vous commencez lentement, vous allez pouvoir augmenter votre vitesse avec l'entraînement.
+Tout comme apprendre un instrument, commencer lentement et s'assurer que vous avez les bons mouvements est aussi important que votre connaissance du jeu. Si vous commencez lentement, vous allez pouvoir augmenter votre vitesse avec l'entraînement.
 
 ### Bar sensorielle
 Basé sur le fait que tout est contrôlé par le curseur, il est crucial de s'assurer que la bar sensorielle soit bien installée pour vous assurer des résultas constants. Vous allez avoir besoin de changer ces paramètres dans le menu des paramètres de la Wii hors du jeu. Tout d'abord, assurez vous que votre bar sensorielle soit bien positionnée, soit au dessus ou en dessous de l'écran. Cela va décaler le curseur pour un ressenti plus naturel. Ce n'est pas strictement nécessaire mais ça aide à éviter de pointer avec la manette avec un angle inconfortable.
