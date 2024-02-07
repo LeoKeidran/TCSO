@@ -10,7 +10,7 @@ With the big lacerations you should drain the blood of one cut, close and suture
 ***Please follow the Kyriaki Advice found under [GUILT - Kyriaki](../../guilt/eng/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
 
 There are quite a few long waits between waves, so you can boost vitals if necessary. <br>
-After you finish dealing with Kyriaki, and you close up the patient, you will have to awkwardly wait for Sydeny to stop talking to Angie about Chirality to be able to finalise the operation. <br>
+After you finish dealing with Kyriaki, and you close up the patient, you will have to awkwardly wait for Sydney to stop talking to Angie about Chirality to be able to finalise the operation. <br>
 
 ## 3-4
 

@@ -5,7 +5,7 @@
 
 ## 5-2*
 
-***Please follow the Kyriaki Advice found under [TAC - Kyriaki](../../guilt/fr/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Kyriaki qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
 Given that this episode is five back to back Kyriaki patients, this will seriously test your tool switching, pacing, vital management, and overall speed. <br>
 If you have a healthy pace, you should only need to boost vitals on patient two, and five. <br>
@@ -15,7 +15,7 @@ If you kill a patient, you will have to re-do the entire operation so it is bett
 
 ## 5-3*
 
-***Please follow the Triti Advice found under [TAC - Triti](../../guilt/fr/triti.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Triti qui peuvent être trouvés ici [TAC - Triti](../../guilt/fr/triti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
 The pattern for Triti is always the same, and I recommend using the Healing Touch in this op. <br>
 Despite being split into two clear areas, you should extract all the thorns and triangles in one go, not touching the triangles until the thorns are out. <br>
@@ -23,7 +23,7 @@ Despite being split into two clear areas, you should extract all the thorns and 
 
 ## 5-4
 
-***Please follow the Tetarti Advice found under [TAC - Tetarti](../../guilt/fr/tetarti.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Tetarti qui peuvent être trouvés ici [TAC - Tetarti](../../guilt/fr/tetarti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
 The diverticula are located in the same locations every time. <br>
 You should deal with Yellow first, then Green, then Purple, as this is the same order they expand in. <br>
@@ -35,7 +35,7 @@ Despite Angie's comments about it being mutated, the only difference is you will
 
 ## 5-6
 
-***Please follow the Paraskevi Advice found under [TAC - Paraskevi](../../guilt/fr/paraskevi.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Paraskevi qui peuvent être trouvés ici [TAC - Paraskevi](../../guilt/fr/paraskevi.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
 After dealing with the two small cuts, there is enough time to boost the vitals to max. <br>
 The Paraskevi will spawn near this middle area, with the tail located near the bend in the intestine:  <br>
@@ -64,7 +64,7 @@ The final two cuts happen very quickly. For best optimisation, on the final cut 
 
 ## 5-9*
 
-***Please follow the Savato Advice found under [TAC - Savato](../../guilt/fr/savato.md) for this operation. The below is operation specific advice.***  <br>
+***Merci de suivre les conseils concernant Savato qui peuvent être trouvés ici [TAC - Savato](../../guilt/fr/savato.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.***  <br>
 
 This first encounter with Savato is the tamer and less aggressive variant. <br>
 It is possible to get faster web-skip in this op and skip the extra strand at the end of the final web phase. To do this, you will need to execute the scalpel glitch on the upper left strand cross over. Do this 10 times, then cut one of the other overlapping points. Repeat the glitch for another 10, before cutting the other strand overlap at the bottom right. You should be left with the final two strands on low HP, meaning if you continue to do the scalpel HT glitch, it will break. <br>

@@ -62,7 +62,7 @@ The wait here for the sedative to wear off isn't consistent, and will depend on 
 
 ## Z-5
 
-***Please follow the Kyriaki Advice found under [TAC - Kyriaki](../../guilt/fr/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Kyriaki qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
 To start, deal with the cuts and the triple Kyriaki that follows. Note that it takes three hits with the laser to kill an immature. <br>
 Suture the cut that the Blue Savato pour out of, then pop Naomi's HT. <br>

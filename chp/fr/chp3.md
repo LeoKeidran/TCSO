@@ -5,69 +5,69 @@
 
 ## 3-2*
 
-With the big lacerations you should drain the blood of one cut, close and suture before you deal with the next. <br>
+Pour traiter les grandes lacérations, vous devez drainer le sang, fermer la lacération puis suturer avant de s'occuper de la prochaine. <br>
 
-***Please follow the Kyriaki Advice found under [TAC - Kyriaki](../../guilt/fr/kyriaki.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Kyriaki qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-There are quite a few long waits between waves, so you can boost vitals if necessary. <br>
-After you finish dealing with Kyriaki, and you close up the patient, you will have to awkwardly wait for Sydeny to stop talking to Angie about Chirality to be able to finalise the operation. <br>
+Il y a des temps de pause assez long entre les vagues, donc vous pouvez remonter les signes vitaux du patient si nécessaire. <br>
+Après avoir fini de traiter Kyriaki et avoir refermé le patient, vous devrez étrangement attendre que Sydney arrête de parler à Angie de la chiralité pour être capable de finir l'opération. <br>
 
 ## 3-4
 
-In the pre-op there is a quite a bit of time so spend this time to stretch! <br>
+Il y a un peu de temps pendant la pré-opération donc utilisez ce temps pour vous étirer ! <br>
 
-***Please follow the Deftera Advice found under [TAC - Deftera](../../guilt/fr/deftera.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Deftera qui peuvent être trouvés ici [TAC - Deftera](../../guilt/fr/deftera.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-The tumour locations are always the same in small clusters, there is no set order to laser these in but this is the order I take: <br>
+La localisation des tumeurs est toujours la même, il n'y a pas d'ordre défini pour les détruire mais voici l'ordre que j'utilise : <br>
 ![](../img/3-4_tumours.png) <br>
-After lasering all these tumours, you have enough time to complete a full injection of the stabiliser before Angie talks. <br>
-You will likely have enough to max the vitals while you wait for the first pair of Deftera to merge. <br>
-The vitals do not get boosted once you move onto the lungs. Keep this in mind in case you are low. <br>
-You can boost vitals again while you wait for Deftera to spawn on the second stage. <br>
+Après toutes les avoir détruites, vous avez assez de temps pour injecter une dose complète de stabilisateur avant qu'Angie ne parle. <br>
+Vous aurez probablement assez de temps pour remonter les signes vitaux au maximum pendant que vous attendez que la première paire de Deftera fusionne. <br>
+Les signes vitaux ne remontent pas une fois que vous arrivez dans les poumons. Gardez ceci en tête si jamais le patient a peu de vie. <br>
+Vous pouvez encore une fois remonter les signes vitaux pendant que vous attendez l'apparition de Deftera durant la seconde partie. <br>
 
 ## 3-6
-The screws have set rotations of about 180 degrees, and you should start from the top left. While the operation loads in, twist your wrist and wiimote to the left, so you can unscrew the first screw. From here, alternate each direction for each screw going clockwise around the bomb: <br>
+Les vis ont des rotations prédéfinies d'environ 180 degrés, vous devez commencer à partir d'en haut à gauche. Pendant que l'opération commence, tournez votre poignet et votre manette vers la gauche, pour pouvoir dévisser facilement la première vis. À partir de là, alternez de direction pour chaque vis en allant dans le sens des aiguilles d'une montre autour de la bombe : <br>
 ![](../img/3-6_screws.png) <br>
-Once opened, the fastest method to move the pegs is to place the top right peg in the first position on the left, followed by the pin below it being placed in the third position on the right: <br>
+Une fois ouvert, la méthode la plus rapide pour bouger les chevilles est de placer la cheville en haut à droite dans la première position à gauche, suivi de la cheville en dessous qui doit être placée dans la troisième position à droite : <br>
 ![](../img/3-6_pins.png) <br>
-The red panels here will flash three times, and on the fourth they will move to an adjacent panel. <br>
-You have one miss available, so if you hit a red panel or miss and hit between the panels, slow down and breathe. It's better to go slightly slower than risk another miss in a full-run. <br>
-If you hit a red panel, it will delay when it moves by a little bit. Just keep this in mind if you recently hit a red panel. <br>
-The safer stat here is to laser all the white panels free that are two tiles away from any existing red tiles. This way you aren't likely to hit a red panel as it moves. <br>
+Les panneaux rouges vont clignoter trois fois puis lors de la quatrième fois, ils vont bouger à un panneau adjacent. <br>
+Vous avez le droit à un raté maximum, donc si vous touchez un panneau rouge ou que vous mettez un coup de laser entre les panneaux, ralentissez et respirez. C'est mieux d'aller un peu plus lentement que de risquer un autre raté et de devoir tout refaire. <br>
+Si vous touchez un panneau rouge, cela va un peu délayer le temps avec lequel ils vont se déplacer. Gardez ceci à l'esprit si vous avez récemment touché un panneau rouge. <br>
+La stratégie la plus sûre ici est de détruire les panneaux qui sont à deux case minimum d'un panneau rouge avec le laser. En le faisant de cette manière, vous ne serez pas susceptible de toucher un panneau rouge au moment où il bouge. <br>
 ![](../img/3-6_panels.png) <br>
-As the panels rotate around the core, aim to laser in the same direction, for example if the core is roating upwards, aim to lasers from bottom to top; if the rotation is from left to right, do the same. This way you maximise how many panels you can hit. <br>
-As you approach the last set of panels, keep in mind that a red panel may suddenly appear, do not rush too quickly if you know the panels are due to move. <br>
-You should aim to avoid leaving solo panels, as there is no way to read whether a red panel is going to move onto it, or to allow for a red panel to move away. This however becomes inevitable as you laser off most of the panels. <br>
-For the final phase, pop HT immediately, and laser between the panels to hit the core until it breaks. <br>
-For a slight improvement, aim to buffer the star by holding your cursor still until you see a gap forming in the panels, this way you don't have to wait as long. <br>
-The core itself is a bit larger than you think, meaning you can laser just under it and damage will be dealt. <br>
+Puisque les panneaux tournent autour du noyau, essayer d'utiliser le laser dans la même direction, par exemple si le noyau est en rotation vers le haut, essayez d'utiliser le laser du bas vers le haut. Si la rotation est de gauche à droite, faites la même chose. De cette manière, vous maximisez combien de panneaux vous pouvez détruire. <br>
+Quand vous vous approchez des derniers panneaux, gardez en tête qu'un panneau rouge peut soudainement apparaître, ne foncez pas trop rapidement si vous savez que les panneaux peuvent changer. <br>
+Vous devez essayer de ne pas laisser de panneau seul, car il n'y a aucun moyen de dire si le panneau va passer rouge, ou pour permettre à un panneau de se déplacer ailleurs. Ceci devient cependant inévitable quand vous avez détruit la plupart des panneaux. <br>
+Pour la dernière phase, utilisez la main curatrice immédiatement, et utilisez le laser entre les panneaux pour détruire le noyau jusuq'à ce qu'il soit détruit. <br>
+Pour une légère amélioration, essayez de "buffer" l'étoile en maintenant votre curseur en place jusqu'à ce que vous voyiez un trou se former dans les panneaux, comme ça vous n'aurez pas besoin d'attendre plus longtemps. <br>
+Le noyau en lui-même est un peu plus large que vous pensez, ce qui veut dire que vous pouvez utiliser le laser juste en dessous et qu'il va quand même infliger les dégâts. <br>
 ![](../img/3-6_core.png) <br>
-It is safer to wait, than to try to rush and laser through a very risky gap! <br>
+C'est plus sûr d'attendre un peu, que d'essayer de foncer et d'utiliser le laser à travers un espace très risqué ! <br>
 
-## 3-8* [Hard]
+## 3-8* [Difficile]
 
-First thing to note about this operation is you should play it on ***Hard.*** <br>
-This is due to the reduced waiting times between cycles. If you are struggling to meet these however, run on normal, though you lose around 20 seconds. <br>
-If all edema are drained within a wave, you only will need to deal with four waves total. You can only deal with three drain points in a wave. There are set locations for these drain points: <br>
+La première chose à noter à propos de cette opération c'est le fait que vous devez la jouer en mode ***Difficile***. <br>
+C'est dû à la réduction de temps entre chaque cycle que cela apporte. Si vous galérez à le faire cependant, faites-la en mode normale, malgrez que vous perdez environ 20 secondes. <br>
+Si tous les oeudèmes sont traités à chaque vague, vous aurez seulement besoin de traiter quatre vagues au total. Vous ne pouvez traiter que trois oeudèmes pendant une vague. Il y a tout un set de localisations pour ces endroits : <br>
 ![](../img/3-8_drainPoints.png) <br>
-When trying to identify a pattern, aim to ultrasound an area, and upon identifying the pattern cut each point one by one. ***Do not cut all three at once as this drops the vitals massively.*** <br>
-The ideal location to ultrasound is either towards the lower right area, or middle-left area in hopes of hitting at least one drain location. <br>
-On the second to last wave, you can perform an early ultrasound right as the turbulance is due to hit. There are six shudders before the turbulance hits, with a small delay. If you ultrasound just after the sixth shudder, the turbulance will start and the drain point might be revealed. If it isn't, you know it isn't this pattern. This saves a very minimal amount of time. An example of this can be found [here](https://youtu.be/KhW5w_KtEoo). <br>
+Quand vous essayez de trouver le paterne, essayez d'utiliser l'ultrason dans une zone, et d'ensuite identifier le paterne en coupant à chaque point un par un. ***Ne coupez pas les trois points en même temps car ça va faire chuter les signes vitaux massivement.*** <br>
+La zone d'ultrason idéale est soit vers la zone en bas à droite, soit la zone au milieu à gache en espérant au moins repérer un point à drainer. <br>
+De la seconde vague jusqu'à la dernière, vous pouvez utiliser l'ultrason juste avant que la turbulence se passe. Il y a six secousses avant que la turbulence ne frappe avec un petit délai. Si vous utilisez l'ultrason après la sixième secousse, la turbulence va commencer et un point de drainage va peut-être être révélé. Si ce n'est pas le cas, vous savez que ce n'est pas ce paterne. Cela vous fait gagner un temps minimal. Un exemple de cette technique peut être trouvé [ici](https://youtu.be/KhW5w_KtEoo). <br>
 
 ## 3-10
 
-Be sure to switch back to Normal (if running Normal/Easy difficulty) after 3-8. <br>
+Soyez sûr de vous remettre dans la bonne difficulté (si vous runnez en difficulté Normale/Facile) après l'opération 3-8. <br>
 
-***Please follow the Triti Advice found under [TAC - Triti](../../guilt/fr/triti.md) for this operation. The below is operation specific advice.*** <br>
+***Merci de suivre les conseils concernant Triti qui peuvent être trouvés ici [TAC - Triti](../../guilt/fr/triti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-It's possible to just pull out all the thorns and then all the triangles of Triti without using the Healing Touch here. This requires you to be consistent and confident you can do this. <br>
-Angie and the Head of Caduceus Europe will cut you off when you first select the forceps, and then again when you have dropped off the first thorn. <br>
-If you don't want to use HT, you should opt to remove the below thorns first: <br>
+Il est possible de juste retirer toutes les aiguilles puis tout les triangles de Triti sans utiliser la main curatrice ici. Cela requiert de vous d'être confiant et d'être assez régulier pour le faire. <br>
+Angie et le directeur de Caduceus Europe vont vous interrompre quand vous allez prendre le forceps pour la première fois, puis encore une fois quand vous aurez retiré la première épine. <br>
+Si vous ne voulez pas utiliser la main curatrice, vous devez opter pour retirer les épines ci-dessous en premier : <br>
 ![](../img/3-10_firstExtract.png) <br>
-From there, you can then remove the right-most three triangles. <br>
-Next, you can remove the thorns surrounding the centre two triangles, and remove them afterwards. <br>
+À partir de là, vous pouvez ensuite retirer les trois triangles les plus à droite. <br>
+Ensuite, vous pouvez retirer les aiguilles qui entourent les deux triangles du centre, et les retirer juste après. <br>
 ![](../img/3-10_secondExtract.png) <br>
-Finally, you can remove the last set of thorns and the final three triangles. <br>
+Finalement, vous pouvez retirer le dernier groupe d'aiguilles et les derniers trois triangles. <br>
 
 ---
 
