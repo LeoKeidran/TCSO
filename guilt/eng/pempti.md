@@ -1,7 +1,7 @@
 
 # GUILT - Pempti [Armoured Bacteria]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Pempti.*** <br>
 
@@ -31,4 +31,4 @@ There are a total of 8 health points for the main core for Pempti, at the fourth
 
 ---
 
-← [Tetarti](./tetarti.md) | [Main Page](../index.md) | [Paraskevi](./paraskevi.md) →
+← [Tetarti](tetarti.md) | [Main Page](../../index/eng/index.md) | [Paraskevi](paraskevi.md) →

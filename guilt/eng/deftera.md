@@ -1,7 +1,7 @@
 
 # GUILT - Deftera [Creeping Tumours]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Deftera.*** <br>
 
@@ -17,14 +17,14 @@ If you are simply waiting for Deftera to merge and there aren't any tumours, boo
 
 ## Vitals
 
-Speaking of vitals, you will either find that vitals stay stable throughout, or that you are struggling to keep them up. This is due to the random nature of Deftera, in that the tumours cause a lot of vital damage, especially when there are a lot of them clustered up. To ensure they don't drop too quickly, you should ensure you laser off the large tumours, then the mini tumours. <br>
+Speaking of vitals, you will either find that vitals stay stable throughout, or that you are struggling to keep them up. This is due to the random nature of Deftera, in that the tumours cause a lot of vital damage, especially when there are a lot of them. To ensure they don't drop too quickly, you should ensure you laser off the large tumours, then the mini tumours. <br>
 When on the final stage of Deftera, after the drain, you need to excise it as quick as possible. If done optimally the vitals should only drop around 20 vitals. This will be exasturbated if you are slower at excision, and lasering the tumours that are created. <br>
 To excise a Deftera pair as soon as possible, I'd recommend cutting around them before the incision line appears, this way you are already doing a circular motion. <br>
 It's possible to go for a double extraction, but note that this costs upwards of 60 vitals to execute safely. This is because with each "pulse" that Deftera gets in, the vitals plummet, and the tumours create a large mess that cause even more vital loss. The double extraction is also incredibly risky on 6-7 where the blood pools spawn. Or else you risk [what happened to IrisJoker](https://www.youtube.com/watch?v=RlSR_997Kc0). <br>
 
 ## Gel
 
-If you have played Under the Knife, using the gel might seem like a smart idea to control Deftera, and it can be but it has to be done very very liberally. The gel causes the vitals to drop in larger chunks. <br>
+If you have played Under the Knife, using the gel might seem like a smart idea to control Deftera, and it can be but it has to be done very very carefully. The gel causes the vitals to drop in larger chunks. <br>
 If you wish to use the gel, tap it right in the path of one of the Deftera cells, to cause it to bounce. This is often slightly random in nature. <br>
 After draining Deftera, or while it is beginning to merge, surrounding it in gel can sometimes be useful to prevent other cells from interrupting the pair. Due to the gel mechanics, this isn't 100% consistent, but if the vitals are high enough this can be beneficial to ensure you can extract one pair. <br>
 
@@ -44,4 +44,4 @@ When Deftera is going beserk as you attempt to extract it, depending on your spe
 
 ---
 
-← [Kyriaki](./kyriaki.md) | [Main Page](../index.md) | [Triti](./triti.md) →
+← [Kyriaki](kyriaki.md) | [Main Page](../../index/eng/index.md) | [Triti](triti.md) →

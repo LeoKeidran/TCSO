@@ -1,7 +1,7 @@
 
 # GUILT - Kyriaki [Concealed Blades]
 
-[Back to Main Page](../index.md)
+[Back to Main Page](../../index/eng/index.md)
 
 ***This advice applies to all Operations that involve Kyriaki.*** <br>
 
@@ -12,7 +12,7 @@ If you'd like a visual breakdown with commentary and annotations, please find my
 ## Vitals
 
 Any time you expose Kyriaki, it will deal 6 damage. However, the cuts also do damage over time and so if they are left alone they can tick the vital lower than this minimum threshold. <br>
-When a wave starts, and the number of initial cuts are created determine how many immatures are in a wave,  vitals are dropped for each immature that is spawned (and their subsequent cuts). <br>
+When a wave starts, and the number of initial cuts are created determine how many immatures are in a wave, vitals are dropped for each immature that is spawned (and their subsequent cuts). <br>
 On the final wave, when the mature Kyriaki spawns, it deals 18 damage when creating the asterisk cut. The two critical values to remember are 40 vitals for when there is no immature, and 50 vitals when there is an accompanying immature. <br>
 Do ***not*** ignore the cuts that are created for too long. It's important to suture these as soon as possible to prevent vital loss. <br>
 
@@ -21,7 +21,7 @@ Do ***not*** ignore the cuts that are created for too long. It's important to su
 Conviniently, the four main tools you use in this operation are on cardinal directions of the nunchuck: Gel, Sutures, Laser, and Scalpel. The only tools that are diagonal are the Ultrasound and Drain, and Forceps, the latter two of which are only used right at the start of treatment. <br>
 Ensuring your tool switching is consistent and effective will greatly improve your chances with dealing with Kyriaki is a quick manner. Tool ordering will look something like: <br>
 Suture, Ultrasound, Scalpel, Gel, Laser, Suture. <br>
-![](./img/kyriaki_toolSwitching.gif) <br>
+![](../img/kyriaki_toolSwitching.gif) <br>
 If you can't get this down at first, don't worry - it will come with time. Focus on getting this order down to ensure it's ingrained for when you do start to pick up the pace. <br>
 
 ## Waves
@@ -40,7 +40,7 @@ It's best to ultrasound towards the centre of the organ to reveal Kyriaki, espec
 ## Difficulty
 
 The further you progress into the game, the trickier Kyriaki will get. From Z-5 onwards each immature will take an extra hit requiring 3 hits total with the laser, and the Mature will dive an additional time, resulting in a greater vital drop. <br>
-To go along side this, you will notice that for Paitent 3 onwards in 5-2, there is an accompanying immature to go with the Mature in the final wave. If the immature is left alone, it will cause more cuts and reduce vitals, so it's best to kill it off as soon as possible. <br>
+To go along side this, you will notice that for Patient 3 onwards in 5-2, there is an accompanying immature to go with the Mature in the final wave. If the immature is left alone, it will cause more cuts and reduce vitals, so it's best to kill it off as soon as possible. <br>
 
 ## Pathing
 
@@ -50,4 +50,4 @@ Additionally, the cut will never go beyond the bounds of the organ (and if it do
 
 ---
 
-[Main Page](../index.md) | [Deftera](./deftera.md) →
+[Main Page](../../index/eng/index.md) | [Deftera](deftera.md) →
