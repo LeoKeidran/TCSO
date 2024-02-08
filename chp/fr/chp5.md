@@ -7,29 +7,29 @@
 
 ***Merci de suivre les conseils concernant Kyriaki qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-Given that this episode is five back to back Kyriaki patients, this will seriously test your tool switching, pacing, vital management, and overall speed. <br>
-If you have a healthy pace, you should only need to boost vitals on patient two, and five. <br>
-Each patient ramps up in difficulty (approximately). Patient one has one starting immature, followed by another two in the next wave, and finally the mature in the final wave. Patient two will have two immatures in the first wave, followed by three in the next, and finally the mature. Patient three will start with two immatures, then two in the next wave, and the mature will be accompanied by an immature as well. Patient four will be the exact same. Patient five will start with three immatures, then an additional two, as well as an extra immature with the mature. <br>
-Do not bother boosting vitals between patient as they reset to max (99). <br>
-If you kill a patient, you will have to re-do the entire operation so it is better to be slightly slow and safe than rush and kill the patient. <br>
+Du fait que cette opération soit composé de cinq patients qui ont le Kyriaki qui s'enchaînent, ça va sérieusement mettre à l'épreuve vos capacités en termes de changement d'outil, rythme, gestion des signes vitaux, et votre vitesse d'exécution générale. <br>
+Si vous avez un rythme correct, vous n'avez besoin que de remonter les signes vitaux des patients deux et cinq. <br>
+Chaque patient augmente en difficulté (approximativement). Le premier patient commence avec un immature, suivi de deux autres dans la prochaine vague, et finalement le mature penddant la vague finale. Le second patient commence avec deux immatures à la première vague, suivi de trois dans la suivante, et finalement du Kyriaki mature. Le troisème patient commence avec deux immatures, puis encore deux la prochaine vague, et le mature sera accompagné d'un immature dans la dernière vague. Le quatrième patient sera exactement le même. Enfin, le cinquième patient commencera avec trois immatures, puis encore deux, et un immature en plus avec le mature. <br>
+Ne vous embêtez pas à remonter les signes vitaux entre chaque patient car ils sont réinitialisés au max (99). <br>
+Si vous tuez un patient, vous devrez refaire l'entièreté de l'opération, il est donc préférable d'être légèrement plus lent mais d'assurer le coup plutôt que de foncer et de tuer le patient. <br>
 
 ## 5-3*
 
 ***Merci de suivre les conseils concernant Triti qui peuvent être trouvés ici [TAC - Triti](../../guilt/fr/triti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-The pattern for Triti is always the same, and I recommend using the Healing Touch in this op. <br>
-Despite being split into two clear areas, you should extract all the thorns and triangles in one go, not touching the triangles until the thorns are out. <br>
+Le paterne pour Triti est toujours le même, et je recommande d'utiliser la main curatrice lors de cette opération. <br>
+Malgré être divisé dans deux zones différentes, vous devez extraire toutes les épines et membranes d'une traite, en ne touchant pas aux membranes avant que toutes les épines soient enlevées. <br>
 ![](../img/5-3_layout.png)
 
 ## 5-4
 
 ***Merci de suivre les conseils concernant Tetarti qui peuvent être trouvés ici [TAC - Tetarti](../../guilt/fr/tetarti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-The diverticula are located in the same locations every time. <br>
-You should deal with Yellow first, then Green, then Purple, as this is the same order they expand in. <br>
+Les diverticules sont toujours placés aux mêmes emplacements à chaque fois. <br>
+Vous devez traiter le jaune en premier, ensuite le vert, puis le violet, car c'est dans le même ordre qu'ils grossissent. <br>
 ![](../img/5-4_diverticula.png) <br>
-Just like in 4-4, you should inject all three before excising them. <br>
-You should tap the gel on the membranes. <br>
+Tout comme dans l'opération 4-4, vous devez faire l'injection dans les trois avant de les exciser. <br>
+Vous tapotez ensuite le gel sur les membranes. <br>
 There is enough time while you wait to boost the vitals while you wait for the Tetarti to appear. <br>
 Despite Angie's comments about it being mutated, the only difference is you will need to complete more waves overall. <br>
 
@@ -37,40 +37,40 @@ Despite Angie's comments about it being mutated, the only difference is you will
 
 ***Merci de suivre les conseils concernant Paraskevi qui peuvent être trouvés ici [TAC - Paraskevi](../../guilt/fr/paraskevi.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-After dealing with the two small cuts, there is enough time to boost the vitals to max. <br>
-The Paraskevi will spawn near this middle area, with the tail located near the bend in the intestine:  <br>
+Après avoir traité les deux petites plaies, il y a assez de temps pour remonter les signes vitaux du patient au maximum. <br>
+Paraskevi va apparaître proche de cette zone au centre, avec la queue proche de la courbure de l'intestin : <br>
 ![](../img/5-6_start.png) <br>
-Victor and Angie will briefly cut you off after stunning Paraskevi for the first time, be ready for this as not to try and cut the Paraskevi in half while they talk. <br>
+Victor et Angie vont brièvement vous interrompre après avoir paralysé Paraskevi pour la première fois, soyez prêt à ça et ne tentez pas de couper en deux Paraskevi pendant qu'ils parlent. <br>
 
 ## 5-8
 
-Each of the cuts that the immature savato spawn out of are predetermined. There are 8 in total. <br>
-It takes 5 immatures to spawn a larger "blue boi" that will cut the vitals in half. <br>
-On each of the cuts, the immatures pour out of the centre, making it easy to snipe. <br>
-For the first wave after suturing all the initial cuts, be ready to laser here: <br>
+Chaque plaie de laquelle les Savato immatures vont appraître sont prédéterminées. Il y en a 8 au total. <br>
+L'apparition d'un Savato bleu plus grand (le "blue boi") cela requiet 5 immatures, si cela se produit, les signes vitaux du patient seront divisés en deux. <br>
+Pour chaqu'une des coupures, les immatures sortent du centre, ce qui les rend faciles à viser. <br>
+Pour la première vague après avoir suturé les lacérations, soyez prêt à utiliser votre laser ici : <br>
 ![](../img/5-8_first.png) <br>
-From here, be ready to laser for the next cut over here: <br>
+À partir de là, soyez prêt à utiliser le laser pour la prochaine lacération juste là : <br>
 ![](../img/5-8_second.png) <br>
-Then be ready to laser for the third cut here: <br>
+Ensuite pour la troisième coupure c'est juste ici : <br>
 ![](../img/5-8_third.png) <br>
-After this cut, wait approximately three second and pop the healing touch, just before the next cut appears: <br>
+Après cette lacération, attendez approximativement trois secondes et activez la main curatrice, juste avant que la prochaine coupure n'apparaisse : <br>
 ![](../img/5-8_fourth.png) <br>
-The next two are located right next to one another: <br>
+Les deux suivantes sont situées l'une à côté de l'autre : <br>
 ![](../img/5-8_fifth.png) <br>
 ![](../img/5-8_sixth.png) <br>
-The final two cuts happen very quickly. For best optimisation, on the final cut you should laser most of the immatures, but not all. Suture the cut, then finish lasering. This skips a small amount of text. But it's a very minor time save. <br>
+Les deux dernières plaies arrivent très rapidement. Pour être le plus optimal possible, sur la dernière coupure, vous devez détruire la plupart des immatures mais pas tous. Suturez la plaie, puis finissez avec le laser. Ceci évite un petit peu de texte. Mais c'est un gain de temps vraiment mineur. <br>
 ![](../img/5-8_seventh.png) <br>
 ![](../img/5-8_eighth.png) <br>
 
 ## 5-9*
 
-***Merci de suivre les conseils concernant Savato qui peuvent être trouvés ici [TAC - Savato](../../guilt/fr/savato.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.***  <br>
+***Merci de suivre les conseils concernant Savato qui peuvent être trouvés ici [TAC - Savato](../../guilt/fr/savato.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-This first encounter with Savato is the tamer and less aggressive variant. <br>
-It is possible to get faster web-skip in this op and skip the extra strand at the end of the final web phase. To do this, you will need to execute the scalpel glitch on the upper left strand cross over. Do this 10 times, then cut one of the other overlapping points. Repeat the glitch for another 10, before cutting the other strand overlap at the bottom right. You should be left with the final two strands on low HP, meaning if you continue to do the scalpel HT glitch, it will break. <br>
-This skip is very tight, and can can *only* be done on this op and *not* on Savato 2. <br>
+La première rencontre avec Savato est la plus docile et la moins agressive des variantes. <br>
+Il est possible d'avoir un web-skip plus rapide dans cette opération et d'éviter le dernier brain lors de la dernière étape de la toile. Pour ce faire, vous avez besoin de faire le scapel glitch sur le brain en haut à gauche qui a un croisement. Faites le 10 fois, puis coupez un des autres points de supperposition sur la toile. Répétez le glitch de la même manière 10 fois encore, avant de couper l'intersection de brains en bas à droite. Il devrait vous rester les deux brins finaux avec peu de vie, ce qui veut dire que si vous continuez d'utiliser le scalpel glitch, l'intersection cassera. <br>
+Faire cette technique est très tendue, et ne peut être effectuée *que* sur cette opération et *pas* sur Savato 2. <br>
 ![](../img/5-9_web.png) <br>
-For an easier time-save, after the final injection for Savato, before drawing the star, take a full injection of the serum, then draw the star. Savato shouldn't make any additional cuts in the time it takes you to complete this. <br>
+Pour un gain de temps plus facile, après la dernière injection pour Savato, avant de dessiner l'étoile, prenez une dose complète de sérum, puis dessinez l'étoile. Savato ne devrait pas faire plus de lacérations pendant le temps que ça vous prend. <br>
 ![](../img/5-9_injection.png)
 
 ---

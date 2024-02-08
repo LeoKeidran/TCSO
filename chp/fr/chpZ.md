@@ -5,73 +5,73 @@
 
 ## Z-1
 
-For less cursor movement and optimised tool switching, you should drain the blood on the left, then the top, before draining the cut on the right, and gelling right away. This saves you from moving your cursor. <br>
+Pour moins de movement de curseur et un changement d'outil optimisé, vous devez drainer le sang à droite, puis en haut avant de drainer la coupure à droite, et appliquer du gel dans la foulée. Ceci vous fait éviter de bouger votre curseur. <br>
 ![](../img/Z-1_blood.png) <br>
-The order in which you pick up the bone-fragments is the same order you'll need to set them down. For this reason you should always pick up the fragments in the same order for consistency - you should eventually reach a point where you no longer have to look at the piece to know where it will go. As an example: <br>
+L'ordre dans lequel vous prenez les fragments d'os est le même que celui lorsque vous allez les replacer. Pour cette raison, vous devez toujors prendre les fragments dans le même ordre pour la régularité - vous devez à terme atteindre un point où vous n'avez plus besoin de regarder le fragment pour savoir où il doit aller. Comme par exemple : <br>
 ![](../img/Z-1_boneOrder.png) <br>
-Trying to get the elbow to line up can be tricky, below is the resting point to help guide you. <br>
+Essayer de réaligner le coude peut être compliqué, ci-dessous, vous pouvez retrouver un point qui devrait vous guider. <br>
 ![](../img/Z-1_elbow.png) <br>
-The rotations on these bone pieces are a bit awkward, and letting go for A or B can jostle your hand too. The most comfortable way is to premptively rotate your hand in the opposite direction, pick up the piece, then bring your hand back to the normal rotation, and drop the fragment. <br>
-The final bone-fragment will always be located here and you can simply cut it without using the ultrasound first. <br>
+Les rotations des fragments d'os est un peu bizarre, et lâcher A ou B peut également bousculer votre main. La manière la plus confortable de le faire est de préventivement tourner votre main dans la direction opposée, prendre le fragment, puis faire revenir votre main dans sa position initiale, et le lâcher. <br>
+Le fragment final d'os se trouvera toujours ici et vous pouvez simplement l'inciser sans utiliser l'ultrason au préalable. <br>
 ![](../img/Z-1_finalBone.png) <br>
-This piece can also be dropped without rotating your wrist, as long as it is dropped centrally to the gap where it belongs. <br>
+Ce fragment peut aussi être lâché sans avoir besoin de tourner votre poignet du moment qu'il est lâché au milieu de l'espace où il doit être. <br>
 ![](../img/Z-1_finalPlacement.png) <br>
 
 ## Z-2
 
-It's worth noting that you shouldn't need to worry about the tumours regenerating as the timer is quite fair on Normal. <br>
-If you are concerned about the vitals dropping too quickly, you should cut two of the veins per tumour, then cut the final veins collectively and extract. <br>
-The tumours are always in the same locations, and so are their rotations. <br>
-Aim to deal with the tumours first, followed by the polyps/small tumours. <br>
-The vein hitboxes only start about a third away from the tumour, so be sure not to cut too close: <br>
+Ça peut être intéressant de garder en tête que vous n'avez pas à vous préoccuper de la régénération des tumeurs car le temps est juste en Normale pour le faire. <br>
+Si vous êtes inquiets à propos des signes vitaux qui baissent trop rapidement, vous devez couper deux veines pas tumeur, puis couper la dernière veine collectivement et extraire les tumeurs. <br>
+Les tumeurs apparaissent toujours au même endroit, voici leurs rotations. <br>
+Traitez les tumeurs en premier, suivi des polypes/petites tumeurs. <br>
+La hitbox des veines ne commence qu'à partir d'un tier de la tumeur, donc faites attention de ne pas inciser trop proche : <br>
 ![](../img/Z-2_hitboxes.png) <br>
-As long as the vitals aren't too low after the pair of tumours in the second wave, you should be okay. <br>
-Before Naomi activates her Healing Touch, you can drain one of tumours but she cuts you off: <br>
+Du moment que les signes vitaux ne sont pas trop bas après la paire de tumeurs dans la seconde vague, vous devriez être ok. <br>
+Après que Naomi active sa main curatrice, vous pouvez drainer une des tumeurs avant qu'elle ne vous interrompe : <br>
 ![](../img/Z-2_preHT.png) <br>
-Keep in mind the blood will stop you from gelling when lasering the small tumours. <br>
-You should laser these in clusters, (ie: per tumour) and gel, to prevent extra bleeding. <br>
-With HT active, you should be able to cut each vein per tumour, then extract and have enough buffer. <br>
-If you are worried about the vitals falling if you are slower, or you worry you might drop a tumour, cut two veins per tumour, then all of the final tumours at once, and extract. <br>
+Gardez en tête que le sang va vous empêcher d'appliquer du gel lorsque vous traitez les petites tumeurs. <br>
+Vous devez utiliser le laser sur des clusters, (càd: par tumeur) et appliquez du gel pour empêcher davantage de saignement. <br>
+Avec la main curatrice active, vous devriez être capable de couper chaque veine par tumeur, puis de les extraire en ayant une marge de manoeuvre assez correcte. <br>
+Si vous êtes inquiets que les signes vitaux chutent trop ou si vous êtes plus lent, vous pouvez laisser une tumeur, couper deux veines par tumeur, ensuite la dernière veine de toutes les tumeurs en même temps, et extraire. <br>
 
 ## Z-3*
 
-At the start of the operation, you need to first reveal the three cuts at the top right of the chest for you to be given access to the sutures. <br>
-After the first cut, Naomi will talk a little and you'll be given access to the rest of the tools. <br>
-All the effected areas are stationary and the same every time, so it is possible to deal with each area without moving the penlight. This is ideal to avoid wasting time as you move the light. <br>
+Au début de l'opération, vous devrez d'abord révéler les trois lacérations en haut à droite de la poitrine pour que vous ayez accès aux sutures. <br>
+Après la première lacération, Naomi va parler un petit peu et vous pourrez accéder au reste des outils. <br>
+Toutes les zones sont stationnaires et sont les mêmes à chaque fois il est donc possible de traiter chaque zone sans bouger le stylo qui vous sert de lumière. C'est idéal pour éviter de perdre du temps pendant que vous déplacez la source de lumière. <br>
 ![](../img/Z-3_initial.png) <br>
-If you leave the penlight in the second area (on the left in the image above), you can only see the edge of the wounds, but you can still deal with these even if the light is not on them. <br>
-You can use Naomi's Healing Touch if you are worried about the vitals, but you should be safe not to need it if you are reasonably quick. <br>
+Si vous laissez la lumière dans la seconde zone (celle à gauche dans l'image de dessus), vous ne verez que les bords des plaies, mais vous pourrez tout de même les traiter même si la lumière n'est pas directement sur la zone concernée. <br>
+Vous pouvez utiliser la main curatrice de Naomi si vous êtes inquiet à propos des signes vitaux du patient, mais vous devriez être tranquille et ne pas en avoir besoin si vous êtes raisonnablement rapide. <br>
 ![](../img/Z-3_firstArea.png) <br>
-In this final area, if you are quick enough you can suture these three cuts on the left before the light goes out. <br>
-It isn't necessary to use the camera flash if you can memorise the location of the large cut, glass, and laceration on the right. <br>
-Using the camera here is considerably slower, so aim to memorise these areas. <br>
+Dans la zone finale, si vous êtes assez rapide, vous pouvez espérer suturer les trois lacérations de gauche avant que la lumière ne s'éteigne. <br>
+Ce n'est pas nécessaire d'utiliser le flash de la caméra si vous pouvez mémoriser la localisation de la grosse plaie, le bout de verre, et la lacération à droite. <br>
+Ici, utiliser la caméra est considérablement plus lent, donc essayez de retenir ces emplacements. <br>
 ![](../img/Z-3_secondArea.png) <br>
 
 ## Z-4
 
-Given that the vitals are already kind of low, and if you worry about potentially dropping one of the tumours, pop Naomi's HT before cutting the last to veins and extracting. For a quicker approach however, extract the two tumours, then pop HT.<br>
-These large tumours are always located in the same place. <br>
+Du fait que les signes vitaux soient déjà assez bas, et si vous vous souciez de potentiellement lâcher une des tumeurs, activez la main curatrice de Naomi avant de couper les dernières veines et faites l'extraction. Pour une approche plus rapide cependant, retirer les deux tumeurs puis activez la main curatrice.<br>
+Ces grosses tumeurs sont toujours localisées au même endroit. <br>
 ![](../img/Z-4_tumours.png) <br>
-After extraction, if you have not activated Naomi's HT, do so now. <br>
-You should sedate both the artery (red) and vein (blue) with one and two thirds injections each. <br>
+Après l'extraction, si vous n'avez pas activé la main curatrice de Naomi faites-le. <br>
+Vous devez mettre du sédatif dans l'artère (rouge) et la veine (bleu) avec une seringue et deux-tiers d'injections pour chacune. <br>
 ![](../img/Z-4_sedative.png) <br>
-After sedation, you should cut both of these points, then connect the tissue up. You should connect the artery first, and suture. The artery will take priority if you connect both of these up, as it is "above" it. <br>
+Après ceci, vous devez couper les deux lignes de points, puis connecter les deux parties. Vous devez d'abord connecter l'artère puis suturer. L'artère va prendre la priorité si vous connectez les deux, car elle est "au-dessus" de l'autre. <br>
 ![](../img/Z-4_artery.png) <br>
-When suturing the bladder, aim to do a vertical (up and down zig-zag) to close this. <br>
-The wait here for the sedative to wear off isn't consistent, and will depend on how long you take. Expect to wait anywhere between 5 and 10 seconds. <br>
+Quand vous suturez la vessie, essayez de le faire de manière verticale (des zigzags haut et bas). <br>
+L'attente que vous avez ici pour la fin du sédatif n'est pas régulier et va dépendre de combien de temps vous prenez. Attendez-vous à attendre entre 5 et 10 secondes. <br>
 
 ## Z-5
 
 ***Merci de suivre les conseils concernant Kyriaki qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-To start, deal with the cuts and the triple Kyriaki that follows. Note that it takes three hits with the laser to kill an immature. <br>
-Suture the cut that the Blue Savato pour out of, then pop Naomi's HT. <br>
+Pour commencer, traitez les lacérations et le triple Kyriaki qui suit. Notez qu'il y a besoin de trois dégâts au laser pour tuer un immature. <br>
+Suturez la plaie d'où sort le Savato bleu, puis activez la main curatrice de Naomi. <br>
 ![](../img/Z-5_HT.png) <br>
-Proceed to deal with Kyriaki until it is defeated, ignoring the Blue Savato. Hitting the Savato with the laser means you'll get cut off by Little Guy. <br>
-You only need to retrieve **one** Blue Savato, so inject one, place it on the tray and kill the other two. <br>
+Continuez de traiter Kyriaki jusqu'à ce que ça soit fini en ignorant les Savato bleu. Toucher Savato avec un laser vous fera être interrompu par le "petit monsieur". <br>
+Vous n'avez besoin d'extraire qu'**un** Savato bleu, donc faites une seule l'injection, placez-le Savato Bleu sur le plateau et tuez les deux autres. <br>
 ![](../img/Z-5_extract.png) <br>
-When attempting to inject the Blue Savato, you'll need about 3/4 of the syringe to sedate it, and it must be given in one dose. You should aim to inject one that is stationary, to avoid a miss. <br>
-If you do go for one that is moving, give it as much lead as possible to allow you to inject it in full. <br>
+Quand vous essayerez d'injecter le sérum au Savato Bleu, vous aurez besoin d'environ 3/4 de seringue pour appliquer le sédatif, il doit en revanche être appliqué en une dose. Vous devez en viser un qui est immobile, pour éviter d'avoir un raté. <br>
+Si vous tentez de le faire sur un Savato Bleu qui bouge, prenez le plus d'avance possible pour vous permettre de l'injecter entièrement pendant son mouvement. <br>
 
 ---
 

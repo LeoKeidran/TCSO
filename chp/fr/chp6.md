@@ -7,64 +7,64 @@
 
 ***Merci de suivre les conseils concernant Tetarti qui peuvent être trouvés ici [TAC - Tetarti](../../guilt/fr/tetarti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-In this op there is no diverticula, so draw the serum premptively. <br>
-When Derek grunts (or in JP he hums?), it means you're half way through the operation. <br>
-The gas let off the Tetarti can do quite a bit of damage, so boost the vitals between each wave. Be careful not to over-use the syringe however. <br>
+Dans cette opération, il n'y a pas de diverculite, donc prenez directement du sérum. <br>
+Quand Derek grogne (en japonais, il fait un "hum" ?), cela veut dire que vous êtes à la moitié de l'opération. <br>
+Le gaz qui s'échappe de Tetarti peut faire un peu de dégât, donc remontez les signes vitaux entre chaque vague. Faites cependant attention de ne pas trop utiliser la seringue. <br>
 
 ## 6-4
 
 ***Merci de suivre les conseils concernant Kyriaki et Paraskevi qui peuvent être trouvés ici [TAC - Kyriaki](../../guilt/fr/kyriaki.md), et [TAC - Paraskevi](../../guilt/fr/paraskevi.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-After you suture all the initial cuts, the next set of cuts appear on the left side of the heart: <br>
+Après avoir suturé toutes les plaies initiales, les prochaines lacérations vont apparaître du côté gauche du coeur : <br>
 ![](../img/6-4_firstCuts.png) <br>
-Once you suture the first two cuts, extract the Paraskevi segments. <br>
-The next three cuts also appear on the left and middle of the heart: <br>
+Une fois que vous avez suturé les deux premières coupures, faites l'extraction des segments de Paraskevi. <br>
+Les trois prochaines plaies vont apparaître à gauche et au milieu du coeur : <br>
 ![](../img/6-4_secondCuts.png) <br>
-After extracting all of the Paraskevi, pop Naomi's Healing Touch, and begin dealing with the five immature Kyriaki. It's recommended you expose all five before treating. <br>
-Note that each immature takes **three hits** to kill. <br>
-Upon dealing with the immatures, and suturing the cuts, there is a brief period of downtime to wait. <br>
-Once the final wave starts with the mature Kyriaki, deal with the Paraskevi first as it is a bigger threat. <br>
-With the Paraskevi extracted, deal with the Kyriaki as normal. <br>
+Après avoir extrait tout le Paraskevi, activez la main curatrice de Naomi, et commencez à traiter lees cinq Kyriaki immatures. Il est recommandé de révéler l'ensemble des cinq avant de les traiter. <br>
+Prenez en compte que chaque Kyriaki immatrue a besoin de **trois coups** pour être tués. <br>
+Après avoir traité les immatures et avoir suturé les plaies, il y a une brève période d'attente. <br>
+Une fois que la vague finale commence avec le Kyriaki mature, traitez le Paraskevi en premier car il représente une plus grande menace. <br>
+Une fois le Paraskevi extrait, traitez Kyriaki normalement. <br>
 
 ## 6-6*
 
 ***Merci de suivre les conseils concernant Pempti qui peuvent être trouvés ici [TAC - Pempti](../../guilt/fr/pempti.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-Although Angie claims that Pempti is mutated here, it is no different from usual, with the exception that the cycles are marginally faster. <br>
-It is possible to kill all the blue/polyp cores before they complete their animation, by lasering two cores at once. <br>
+Malgré qu'Angie vous déclare que Pempti a muté il n'en n'est rien, à l'exception que les cycles sont marginalement plus rapides. <br>
+Il est possible de détruire les noyaux bleus avant qu'ils finissent leur animation en détruisant les noyaux deux par deux. <br>
 
 ## 6-7*
 
-This operation is ***four*** GUILT patients back to back. <br>
+Cette opération consiste en ***quatre*** patients atteint de la TAC qui s'enchaînent. <br>
 ***Merci de suivre les conseils concernant Triti, Kyriaki, Deftera et Paraskevi qui peuvent être trouvés ici [TAC - Triti](../../guilt/fr/triti.md), [Kyriaki](../../guilt/fr/kyriaki.md), [Deftera](../../guilt/fr/deftera.md), et [Paraskevi](../../guilt/fr/paraskevi.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-The Doctor you play as, and their respective Healing Touch alternates, starting with Derek. <br>
-As such, you will have access to Derek's Healing Touch for Triti or Deftera and; Naomi's Healing Touch for Kyriaki or Paraskevi. <br>
-Like in the rest of the game, you can only use each doctor's HT for a single patient. <br>
-Use of the Healing Touch depends on your confidence with the varying types of GUILT. Generally it is recommended to pop Derek's HT for Triti, and if needed Naomi's HT for Paraskevi. <br>
+Le docteur que vous incarnez, et leur main curatrice respective s'alternent, en commençant avec Derek. <br>
+En partant de ça, vous aurez accès à la main curatrice de Derek pour Triti ou Deftera ; et la main curatrice de Naomi pour Kyriaki ou Paraskevi. <br>
+Comme dans le reste du jeu, vous ne pouvez utiliser la main curatrice de chaque docteur que pour un patient. <br>
+L'usage de la main curatrice dépend de votre confidance pour traiter les différentes souches de TAC. Il est généralement recommandé d'utiliser la main curatrice de Derek pour Triti et si vous en avez besoin celle de Naomi pour Paraskevi. <br>
 
-For Triti, the pattern is always the same. Pop HT and extract all the thorns, followed by the triangles. <br>
+Pour Triti, le paterne est toujours le même. Activez la main curatrice et extrayez toutes les épines, suivi des membranes. <br>
 
-For Kyriaki, you shouldn't need to boost the vitals if you are quite efficient. <br>
-After dealing with the first few immatures, the next wave will start immediately, rather than after the sutures. <br>
-Note that the mature will be accompanied by an immature as well. <br>
+Pour Kyriaki, vous ne devriez pas avoir besoin de remonter les signes vitaux si vous êtes suffisamment efficace. <br>
+Après avoir traité les deux premiers immatures, la prochaine vague commencera directement plutôt qu'après les sutures comme c'est habituellement le cas. <br>
+Notez que le Kyriaki mature sera également accompagné d'un immature. <br>
 
-For Deftera, it is best to aim to drain multiple pools of blood at once: <br>
+Pour Deftera, le mieux est d'essayer de trainer plusieurs hémorragies en même temps : <br>
 ![](../img/6-7_blood.png) <br>
-Blood will occasionally spawn, but it should be the last thing you deal with unless it is in the way of you draining or lasering a tumour. <br>
+Du sang va apparaître occasionnelement, mais ce doit être la dernière chose que vous traitez à moins que ça soit sur votre chemin pour drainer une paire Deftera ou détruire des tumeurs au laser. <br>
 
-For Paraskevi, if you have concerns, you can utilise Naomi's HT to boost the vitals back to max; it's best to do this after you have dealt with half of it. <br>
-Given you are working on the heart, you cannot allow Paraskevi to burrow. Luckily, Angie shouts at you if a segment is preparing to burrow. <br>
+Pour Paraskevi, si vous êtes inquets, vous pouvez utiliser la main curatrice de Naomi pour remonter les signes vitaux au maximum ; le mieux est de le faire après avoir traité au moins la moitié de Paraskevi. <br>
+Du fait que vous opérez sur le coeur, vous ne pouvez pas laisser Paraskevi s'enfouir. Par chance, Angie vous crie dessus si un segment se prépare à s'enfouir. <br>
 
 ## 6-8*
 
 ***Merci de suivre les conseils concernant Savato qui peuvent être trouvés ici [TAC - Savato](../../guilt/fr/savato.md) pour cette opération. Ce qui suit sont des conseils uniquement liés à cette opération.*** <br>
 
-The web phase is RNG, and you might get 4 or 5 web in the secondary stage. <br>
-It isn't possible to get a web-skip on the final stage, so cut each overlap. As you cut the final overlap, an extra strand will spawn. While you wait for the scalpel, be sure to laser all the immatures. <br>
-As Savato 2 is generally more aggressive, be mindful of the vitals given they can drop. <br>
-In the second shield phase, if you need to, you can use Naomi's HT without worrying you can't finish the operation, as you are playing as both Derek and Naomi. <br>
-On the first and second shield phases, you don't need to focus on the immatures too much, lest they are getting out of hand and likely to spawn a larger blue savato which will half the vitals. <br>
+La phase de la toile est aléatoire, et vous pouvez obtenir 4 ou 5 brins à l'étape deux. <br>
+Il n'est pas possible de faire un web-skip lors de la dernière étape, alors coupez chaque intersection. Dès que vous allez couper la dernière superposition, un nouveau brin va apparaître. Pendant que vous attendez pour le scalpel, faites en sorte de détruire tout les immatures. <br>
+Car Savato 2 est généralement plus agressif, faites attention aux signes vitaux car ils peuvent descendre assez facilement. <br>
+Dans la deuxième phase du bouclier, si vous avez besoin, vous pouvez utiliser la main curatrice de Naomi sans avoir à vous soucier du fait que vous ne puissiez pas finir l'opération, car vous incarnez en même temps Derek et Naomi. <br>
+Dans la première et deuxième phrase du bouclier, vous n'avez pas trop besoin de vous concentrer sur les immatures, à moins qu'ils soient hors de contrôle et vont probablement faire apparaître un savato bleu plus grand qui va réduire de moitié les signes vitaux. <br>
 
 ---
 
